@@ -1,0 +1,14 @@
+{
+  "name": "74461ce297752ec8",
+  "main": "74461ce297752ec8@660.js",
+  "version": "660.0.0",
+  "homepage": "https://observablehq.com/d/74461ce297752ec8",
+  "author": {
+    "name": "traffic/collision",
+    "url": "https://observablehq.com/@london-traffic-collision"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}

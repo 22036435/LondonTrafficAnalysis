@@ -1,0 +1,2192 @@
+date,slight,serious,total_vehicle_num,most_collision
+2017-01-01T01:00Z,57,9,388732,haringey collision
+2017-01-02T01:00Z,59,5,29216,hounslow collision
+2017-01-03T01:00Z,67,10,660484,croydon collision
+2017-01-04T01:00Z,69,5,282506,bexley collision
+2017-01-05T01:00Z,108,8,255664,haringey collision
+2017-01-06T01:00Z,73,10,180238,haringey collision
+2017-01-07T01:00Z,60,8,68397,hounslow collision
+2017-01-08T01:00Z,65,3,108690,hackney collision
+2017-01-09T01:00Z,95,14,195538,ealing collision
+2017-01-10T01:00Z,86,10,129410,enfield collision
+2017-01-11T01:00Z,79,10,88390,lambeth collision
+2017-01-12T01:00Z,106,8,105500,hammersmith and fulham collision
+2017-01-13T01:00Z,86,13,11412,brent collision
+2017-01-14T01:00Z,69,10,672741,havering collision
+2017-01-15T01:00Z,42,4,165402,hackney collision
+2017-01-16T01:00Z,75,5,170389,haringey collision
+2017-01-17T01:00Z,84,8,465984,waltham forest collision
+2017-01-18T01:00Z,79,16,63786,southwark collision
+2017-01-19T01:00Z,67,5,411344,ealing collision
+2017-01-20T01:00Z,108,9,603319,southwark collision
+2017-01-21T01:00Z,105,9,781060,greenwich collision
+2017-01-22T01:00Z,92,11,33523,redbridge collision
+2017-01-23T01:00Z,64,8,24995,lambeth collision
+2017-01-24T01:00Z,94,9,311284,croydon collision
+2017-01-25T01:00Z,78,7,209216,brent collision
+2017-01-26T01:00Z,61,13,147521,hounslow collision
+2017-01-27T01:00Z,79,9,198456,lambeth collision
+2017-01-28T01:00Z,101,12,199505,wandsworth collision
+2017-01-29T01:00Z,70,9,828587,redbridge collision
+2017-01-30T01:00Z,55,12,229489,haringey collision
+2017-01-31T01:00Z,75,8,237403,bromley collision
+2017-02-01T01:00Z,52,7,34154,kensington an chelsea collision
+2017-02-02T01:00Z,81,4,391988,brent collision
+2017-02-03T01:00Z,92,7,353602,greenwich collision
+2017-02-04T01:00Z,76,7,422714,haringey collision
+2017-02-05T01:00Z,70,9,25609,hounslow collision
+2017-02-06T01:00Z,76,7,63334,redbridge collision
+2017-02-07T01:00Z,77,13,326330,bromley collision
+2017-02-08T01:00Z,69,9,243069,tower hamlets collision
+2017-02-09T01:00Z,66,9,869364,lambeth collision
+2017-02-10T01:00Z,99,8,164561,tower hamlets collision
+2017-02-11T01:00Z,69,11,153015,lambeth collision
+2017-02-12T01:00Z,59,4,62304,haringey collision
+2017-02-13T01:00Z,61,8,196603,bromley collision
+2017-02-14T01:00Z,92,8,477641,haringey collision
+2017-02-15T01:00Z,68,14,754998,islington collision
+2017-02-16T01:00Z,74,9,70993,barking and dagenham collision
+2017-02-17T01:00Z,94,8,217194,havering collision
+2017-02-18T01:00Z,86,6,278357,greenwich collision
+2017-02-19T01:00Z,48,8,504811,croydon collision
+2017-02-20T01:00Z,74,7,381298,southwark collision
+2017-02-21T01:00Z,65,7,152297,bromley collision
+2017-02-22T01:00Z,73,13,306551,ealing collision
+2017-02-23T01:00Z,95,5,414794,lewisham collision
+2017-02-24T01:00Z,91,10,620041,lambeth collision
+2017-02-25T01:00Z,58,4,253072,hackney collision
+2017-02-26T01:00Z,79,15,719829,enfield collision
+2017-02-27T01:00Z,95,11,1355369,barnet collision
+2017-02-28T01:00Z,95,11,387164,bromley collision
+2017-03-01T01:00Z,82,11,172288,southwark collision
+2017-03-02T01:00Z,87,7,1368242,hillingdon collision
+2017-03-03T01:00Z,84,15,237404,bromley collision
+2017-03-04T01:00Z,64,12,252418,croydon collision
+2017-03-05T01:00Z,60,7,364879,barnet collision
+2017-03-06T01:00Z,61,7,962612,lambeth collision
+2017-03-07T01:00Z,66,10,387597,redbridge collision
+2017-03-08T01:00Z,75,8,1058476,lewisham collision
+2017-03-09T01:00Z,59,15,452822,tower hamlets collision
+2017-03-10T01:00Z,86,8,28789,camden collision
+2017-03-11T01:00Z,62,10,106090,hounslow collision
+2017-03-12T01:00Z,49,6,720061,haringey collision
+2017-03-13T01:00Z,87,17,246078,barnet collision
+2017-03-14T01:00Z,67,14,399094,brent collision
+2017-03-15T01:00Z,93,14,196710,lambeth collision
+2017-03-16T01:00Z,68,6,220637,tower hamlets collision
+2017-03-17T01:00Z,91,17,239155,croydon collision
+2017-03-18T01:00Z,72,14,38280,bromley collision
+2017-03-19T01:00Z,43,7,184149,bromley collision
+2017-03-20T01:00Z,70,6,77063,hounslow collision
+2017-03-21T01:00Z,79,12,104034,lewisham collision
+2017-03-22T01:00Z,76,20,292521,southwark collision
+2017-03-23T01:00Z,78,11,76725,lambeth collision
+2017-03-24T01:00Z,86,9,294835,brent collision
+2017-03-25T01:00Z,80,20,885381,islington collision
+2017-03-26T01:00Z,57,9,347575,brent collision
+2017-03-27T01:00Z,82,12,122862,hillingdon collision
+2017-03-28T01:00Z,91,9,1329145,waltham forest collision
+2017-03-29T01:00Z,70,14,60146,enfield collision
+2017-03-30T01:00Z,89,9,919812,hackney collision
+2017-03-31T01:00Z,94,4,52538,haringey collision
+2017-04-01T01:00Z,90,10,91671,hounslow collision
+2017-04-02T01:00Z,93,7,132639,enfield collision
+2017-04-03T01:00Z,69,8,102594,havering collision
+2017-04-04T01:00Z,62,11,194820,haringey collision
+2017-04-05T01:00Z,80,6,71478,enfield collision
+2017-04-06T01:00Z,73,11,99925,tower hamlets collision
+2017-04-07T01:00Z,77,9,98408,ealing collision
+2017-04-08T01:00Z,107,11,42395,croydon collision
+2017-04-09T01:00Z,125,9,91199,haringey collision
+2017-04-10T01:00Z,61,3,321842,wandsworth collision
+2017-04-11T01:00Z,69,12,103628,barking and dagenham collision
+2017-04-12T01:00Z,66,10,485721,hackney collision
+2017-04-13T01:00Z,79,19,283779,haringey collision
+2017-04-14T01:00Z,73,4,174110,bromley collision
+2017-04-15T01:00Z,56,8,35829,tower hamlets collision
+2017-04-16T01:00Z,70,3,467626,haringey collision
+2017-04-17T01:00Z,51,5,330954,newham collision
+2017-04-18T01:00Z,97,12,558303,hillingdon collision
+2017-04-19T01:00Z,81,13,26294,lambeth collision
+2017-04-20T01:00Z,86,10,72383,ealing collision
+2017-04-21T01:00Z,94,10,4324,lambeth collision
+2017-04-22T01:00Z,80,15,13945,bromley collision
+2017-04-23T01:00Z,60,8,962759,brent collision
+2017-04-24T01:00Z,100,15,74623,lambeth collision
+2017-04-25T01:00Z,97,15,234798,newham collision
+2017-04-26T01:00Z,93,14,119791,wandsworth collision
+2017-04-27T01:00Z,66,9,269390,greenwich collision
+2017-04-28T01:00Z,98,8,257647,havering collision
+2017-04-29T01:00Z,81,8,156886,newham collision
+2017-04-30T01:00Z,82,12,193328,croydon collision
+2017-05-01T01:00Z,61,12,96508,newham collision
+2017-05-02T01:00Z,76,8,235997,barnet collision
+2017-05-03T01:00Z,83,7,183789,lewisham collision
+2017-05-04T01:00Z,73,7,22671,hammersmith and fulham collision
+2017-05-05T01:00Z,63,16,70366,barnet collision
+2017-05-06T01:00Z,64,12,148540,lambeth collision
+2017-05-07T01:00Z,61,8,136310,barnet collision
+2017-05-08T01:00Z,89,9,377004,southwark collision
+2017-05-09T01:00Z,91,13,373597,redbridge collision
+2017-05-10T01:00Z,79,8,204257,greenwich collision
+2017-05-11T01:00Z,83,13,374242,barnet collision
+2017-05-12T01:00Z,90,18,312658,hackney collision
+2017-05-13T01:00Z,82,8,326987,enfield collision
+2017-05-14T01:00Z,53,7,72616,lambeth collision
+2017-05-15T01:00Z,78,6,696381,lambeth collision
+2017-05-16T01:00Z,101,10,150569,barnet collision
+2017-05-17T01:00Z,80,5,375671,camden collision
+2017-05-18T01:00Z,87,11,492802,brent collision
+2017-05-19T01:00Z,88,14,359764,southwark collision
+2017-05-20T01:00Z,66,11,220652,haringey collision
+2017-05-21T01:00Z,58,14,728127,havering collision
+2017-05-22T01:00Z,77,9,150249,haringey collision
+2017-05-23T01:00Z,76,12,672645,greenwich collision
+2017-05-24T01:00Z,86,14,291995,tower hamlets collision
+2017-05-25T01:00Z,108,13,218207,hillingdon collision
+2017-05-26T01:00Z,99,19,517246,southwark collision
+2017-05-27T01:00Z,71,8,379063,barking and dagenham collision
+2017-05-28T01:00Z,65,9,272916,southwark collision
+2017-05-29T01:00Z,41,6,288781,southwark collision
+2017-05-30T01:00Z,71,14,320551,newham collision
+2017-05-31T01:00Z,58,6,715298,hounslow collision
+2017-06-01T01:00Z,82,13,124165,lewisham collision
+2017-06-02T01:00Z,83,6,481356,haringey collision
+2017-06-03T01:00Z,74,7,136078,lambeth collision
+2017-06-04T01:00Z,65,11,314184,wandsworth collision
+2017-06-05T01:00Z,70,6,255638,tower hamlets collision
+2017-06-06T01:00Z,88,10,311207,haringey collision
+2017-06-07T01:00Z,83,19,330980,wandsworth collision
+2017-06-08T01:00Z,83,9,311010,ealing collision
+2017-06-09T01:00Z,78,13,177224,hammersmith and fulham collision
+2017-06-10T01:00Z,70,15,516007,lambeth collision
+2017-06-11T01:00Z,48,6,227489,croydon collision
+2017-06-12T01:00Z,90,9,246996,greenwich collision
+2017-06-13T01:00Z,80,8,185015,wandsworth collision
+2017-06-14T01:00Z,90,9,247908,enfield collision
+2017-06-15T01:00Z,83,17,382684,richmond upon thames collision
+2017-06-16T01:00Z,96,8,215328,barking and dagenham collision
+2017-06-17T01:00Z,92,13,627320,ealing collision
+2017-06-18T01:00Z,70,10,522375,bexley collision
+2017-06-19T01:00Z,91,16,334668,newham collision
+2017-06-20T01:00Z,114,15,761522,croydon collision
+2017-06-21T01:00Z,89,19,281282,kensington an chelsea collision
+2017-06-22T01:00Z,78,10,222639,camden collision
+2017-06-23T01:00Z,98,11,179491,wandsworth collision
+2017-06-24T01:00Z,70,13,457591,ealing collision
+2017-06-25T01:00Z,79,21,134922,greenwich collision
+2017-06-26T01:00Z,108,14,209724,redbridge collision
+2017-06-27T01:00Z,91,8,273737,barnet collision
+2017-06-28T01:00Z,77,11,251739,enfield collision
+2017-06-29T01:00Z,83,11,157575,lewisham collision
+2017-06-30T01:00Z,92,21,296771,lambeth collision
+2017-07-01T01:00Z,70,13,274795,ealing collision
+2017-07-02T01:00Z,105,16,207348,hounslow collision
+2017-07-03T01:00Z,91,16,560947,croydon collision
+2017-07-04T01:00Z,99,13,407308,hackney collision
+2017-07-05T01:00Z,117,17,137500,lambeth collision
+2017-07-06T01:00Z,107,14,85618,kensington an chelsea collision
+2017-07-07T01:00Z,131,14,234416,tower hamlets collision
+2017-07-08T01:00Z,78,7,387647,newham collision
+2017-07-09T01:00Z,79,7,155942,haringey collision
+2017-07-10T01:00Z,73,16,164500,lewisham collision
+2017-07-11T01:00Z,104,9,141312,hammersmith and fulham collision
+2017-07-12T01:00Z,92,19,668462,hillingdon collision
+2017-07-13T01:00Z,89,12,140972,newham collision
+2017-07-14T01:00Z,89,12,106943,hackney collision
+2017-07-15T01:00Z,96,16,79396,waltham forest collision
+2017-07-16T01:00Z,69,6,353997,ealing collision
+2017-07-17T01:00Z,88,12,116799,brent collision
+2017-07-18T01:00Z,90,8,328643,haringey collision
+2017-07-19T01:00Z,70,11,46268,tower hamlets collision
+2017-07-20T01:00Z,64,10,236656,haringey collision
+2017-07-21T01:00Z,100,14,251723,croydon collision
+2017-07-22T01:00Z,96,18,148568,haringey collision
+2017-07-23T01:00Z,60,11,318963,haringey collision
+2017-07-24T01:00Z,65,6,322135,ealing collision
+2017-07-25T01:00Z,83,4,215665,sutton collision
+2017-07-26T01:00Z,70,8,130818,newham collision
+2017-07-27T01:00Z,70,10,44163,enfield collision
+2017-07-28T01:00Z,66,8,209806,brent collision
+2017-07-29T01:00Z,98,12,199945,islington collision
+2017-07-30T01:00Z,49,8,45983,tower hamlets collision
+2017-07-31T01:00Z,61,8,110536,enfield collision
+2017-08-01T01:00Z,68,11,455947,lambeth collision
+2017-08-02T01:00Z,74,6,56641,hackney collision
+2017-08-03T01:00Z,59,8,451363,haringey collision
+2017-08-04T01:00Z,63,9,109600,ealing collision
+2017-08-05T01:00Z,65,12,668497,newham collision
+2017-08-06T01:00Z,57,6,107350,camden collision
+2017-08-07T01:00Z,57,10,291068,greenwich collision
+2017-08-08T01:00Z,60,2,106260,ealing collision
+2017-08-09T01:00Z,68,6,281280,bromley collision
+2017-08-10T01:00Z,75,9,178256,wandsworth collision
+2017-08-11T01:00Z,77,6,305709,hackney collision
+2017-08-12T01:00Z,67,9,314847,brent collision
+2017-08-13T01:00Z,73,11,365498,southwark collision
+2017-08-14T01:00Z,80,11,75483,hounslow collision
+2017-08-15T01:00Z,71,8,204727,sutton collision
+2017-08-16T01:00Z,84,6,164547,islington collision
+2017-08-17T01:00Z,89,5,358491,tower hamlets collision
+2017-08-18T01:00Z,76,5,76806,croydon collision
+2017-08-19T01:00Z,60,12,119145,barnet collision
+2017-08-20T01:00Z,59,7,662552,brent collision
+2017-08-21T01:00Z,53,7,1038206,kensington an chelsea collision
+2017-08-22T01:00Z,67,10,102592,islington collision
+2017-08-23T01:00Z,79,8,146868,enfield collision
+2017-08-24T01:00Z,75,10,59928,brent collision
+2017-08-25T01:00Z,87,12,50435,hounslow collision
+2017-08-26T01:00Z,57,7,248459,kingston upon thames collision
+2017-08-27T01:00Z,85,7,62704,hounslow collision
+2017-08-28T01:00Z,48,8,218641,hillingdon collision
+2017-08-29T01:00Z,80,15,457238,waltham forest collision
+2017-08-30T01:00Z,82,6,149353,barnet collision
+2017-08-31T01:00Z,67,12,84921,enfield collision
+2017-09-01T01:00Z,80,7,481548,barking and dagenham collision
+2017-09-02T01:00Z,70,13,643693,hillingdon collision
+2017-09-03T01:00Z,69,7,186697,ealing collision
+2017-09-04T01:00Z,67,16,659707,barnet collision
+2017-09-05T01:00Z,53,15,321210,barnet collision
+2017-09-06T01:00Z,89,13,194252,camden collision
+2017-09-07T01:00Z,62,10,278266,barnet collision
+2017-09-08T01:00Z,87,11,174138,ealing collision
+2017-09-09T01:00Z,81,11,205276,hounslow collision
+2017-09-10T01:00Z,59,7,94543,lambeth collision
+2017-09-11T01:00Z,81,5,134416,hillingdon collision
+2017-09-12T01:00Z,83,16,672677,ealing collision
+2017-09-13T01:00Z,89,14,135640,tower hamlets collision
+2017-09-14T01:00Z,78,4,91030,ealing collision
+2017-09-15T01:00Z,84,17,407612,barnet collision
+2017-09-16T01:00Z,75,9,188256,brent collision
+2017-09-17T01:00Z,51,11,231106,kensington an chelsea collision
+2017-09-18T01:00Z,87,10,128538,lambeth collision
+2017-09-19T01:00Z,74,13,101907,ealing collision
+2017-09-20T01:00Z,80,11,201676,haringey collision
+2017-09-21T01:00Z,96,7,57125,islington collision
+2017-09-22T01:00Z,100,11,331739,brent collision
+2017-09-23T01:00Z,65,6,264393,redbridge collision
+2017-09-24T01:00Z,74,10,212913,greenwich collision
+2017-09-25T01:00Z,65,11,941069,brent collision
+2017-09-26T01:00Z,82,11,513827,hounslow collision
+2017-09-27T01:00Z,121,22,537909,barnet collision
+2017-09-28T01:00Z,107,11,365603,southwark collision
+2017-09-29T01:00Z,100,7,135291,hackney collision
+2017-09-30T01:00Z,79,6,525706,camden collision
+2017-10-01T01:00Z,57,9,202197,enfield collision
+2017-10-02T01:00Z,70,12,403978,newham collision
+2017-10-03T01:00Z,95,11,479227,lambeth collision
+2017-10-04T01:00Z,88,7,98598,barnet collision
+2017-10-05T01:00Z,90,8,39092,lambeth collision
+2017-10-06T01:00Z,107,14,348438,brent collision
+2017-10-07T01:00Z,88,9,50685,croydon collision
+2017-10-08T01:00Z,68,6,181127,enfield collision
+2017-10-09T01:00Z,60,11,64411,ealing collision
+2017-10-10T01:00Z,94,6,366836,barnet collision
+2017-10-11T01:00Z,95,11,108187,newham collision
+2017-10-12T01:00Z,91,13,195553,barking and dagenham collision
+2017-10-13T01:00Z,90,14,325050,ealing collision
+2017-10-14T01:00Z,93,7,270694,camden collision
+2017-10-15T01:00Z,62,9,132331,brent collision
+2017-10-16T01:00Z,61,8,295984,hackney collision
+2017-10-17T01:00Z,89,11,60330,bromley collision
+2017-10-18T01:00Z,102,15,434369,camden collision
+2017-10-19T01:00Z,97,16,620068,brent collision
+2017-10-20T01:00Z,93,12,220900,lambeth collision
+2017-10-21T01:00Z,84,14,609050,ealing collision
+2017-10-22T01:00Z,71,12,1377433,brent collision
+2017-10-23T01:00Z,58,19,172350,barnet collision
+2017-10-24T01:00Z,73,9,92718,lambeth collision
+2017-10-25T01:00Z,83,14,43447,enfield collision
+2017-10-26T01:00Z,88,10,102417,croydon collision
+2017-10-27T01:00Z,77,15,95790,ealing collision
+2017-10-28T01:00Z,89,13,62623,barking and dagenham collision
+2017-10-29T01:00Z,65,6,240710,enfield collision
+2017-10-30T01:00Z,71,9,98113,lambeth collision
+2017-10-31T01:00Z,77,17,274495,lambeth collision
+2017-11-01T01:00Z,78,18,96865,lambeth collision
+2017-11-02T01:00Z,70,15,235872,lewisham collision
+2017-11-03T01:00Z,102,17,86647,brent collision
+2017-11-04T01:00Z,70,9,64821,barking and dagenham collision
+2017-11-05T01:00Z,76,8,258682,barnet collision
+2017-11-06T01:00Z,97,13,90809,croydon collision
+2017-11-07T01:00Z,108,18,159429,haringey collision
+2017-11-08T01:00Z,95,13,150984,redbridge collision
+2017-11-09T01:00Z,97,6,526648,bromley collision
+2017-11-10T01:00Z,99,7,186907,southwark collision
+2017-11-11T01:00Z,106,7,28071,haringey collision
+2017-11-12T01:00Z,48,15,7754,ealing collision
+2017-11-13T01:00Z,84,9,24900,greenwich collision
+2017-11-14T01:00Z,72,10,16140,bromley collision
+2017-11-15T01:00Z,79,14,138833,hackney collision
+2017-11-16T01:00Z,73,11,81854,haringey collision
+2017-11-17T01:00Z,100,16,146543,greenwich collision
+2017-11-18T01:00Z,100,11,41482,croydon collision
+2017-11-19T01:00Z,70,7,217636,hounslow collision
+2017-11-20T01:00Z,75,4,50372,tower hamlets collision
+2017-11-21T01:00Z,63,11,99980,havering collision
+2017-11-22T01:00Z,82,16,105936,southwark collision
+2017-11-23T01:00Z,86,18,72180,lambeth collision
+2017-11-24T01:00Z,78,12,1119,waltham forest collision
+2017-11-25T01:00Z,101,11,64467,croydon collision
+2017-11-26T01:00Z,74,6,43242,hammersmith and fulham collision
+2017-11-27T01:00Z,98,11,67546,redbridge collision
+2017-11-28T01:00Z,82,9,84858,barnet collision
+2017-11-29T01:00Z,87,11,186891,merton collision
+2017-11-30T01:00Z,83,8,288591,brent collision
+2017-12-01T01:00Z,110,9,3586,camden collision
+2017-12-02T01:00Z,75,8,6976,southwark collision
+2017-12-03T01:00Z,58,4,32033,ealing collision
+2017-12-04T01:00Z,73,11,48251,enfield collision
+2017-12-05T01:00Z,92,14,200839,lambeth collision
+2017-12-06T01:00Z,87,14,43978,tower hamlets collision
+2017-12-07T01:00Z,103,14,24134,wandsworth collision
+2017-12-08T01:00Z,83,13,176722,lambeth collision
+2017-12-09T01:00Z,94,7,32150,enfield collision
+2017-12-10T01:00Z,58,2,215551,greenwich collision
+2017-12-11T01:00Z,69,8,100125,hackney collision
+2017-12-12T01:00Z,90,15,58049,barnet collision
+2017-12-13T01:00Z,89,6,52334,barnet collision
+2017-12-14T01:00Z,96,12,228550,croydon collision
+2017-12-15T01:00Z,99,16,196523,haringey collision
+2017-12-16T01:00Z,77,10,450784,lambeth collision
+2017-12-17T01:00Z,67,10,148222,lambeth collision
+2017-12-18T01:00Z,104,11,285547,redbridge collision
+2017-12-19T01:00Z,76,9,1052247,brent collision
+2017-12-20T01:00Z,66,9,141911,lewisham collision
+2017-12-21T01:00Z,68,13,28058,hounslow collision
+2017-12-22T01:00Z,75,14,337907,havering collision
+2017-12-23T01:00Z,47,5,423714,barnet collision
+2017-12-24T01:00Z,48,4,542714,lambeth collision
+2017-12-25T01:00Z,28,6,617462,barnet collision
+2017-12-26T01:00Z,69,3,65448,tower hamlets collision
+2017-12-27T01:00Z,59,5,91723,barnet collision
+2017-12-28T01:00Z,50,9,465878,brent collision
+2017-12-29T01:00Z,49,2,3522,brent collision
+2017-12-30T01:00Z,68,9,85031,barking and dagenham collision
+2017-12-31T01:00Z,47,3,43685,lambeth collision
+2018-01-01T01:00Z,55,13,149700,hackney collision
+2018-01-02T01:00Z,50,6,24036,barnet collision
+2018-01-03T01:00Z,49,8,129084,barnet collision
+2018-01-04T01:00Z,58,7,57592,wandsworth collision
+2018-01-05T01:00Z,61,8,102746,ealing collision
+2018-01-06T01:00Z,56,13,213568,enfield collision
+2018-01-07T01:00Z,46,7,351931,lambeth collision
+2018-01-08T01:00Z,66,7,33297,havering collision
+2018-01-09T01:00Z,75,12,290887,lambeth collision
+2018-01-10T01:00Z,68,12,289934,wandsworth collision
+2018-01-11T01:00Z,69,8,40097,croydon collision
+2018-01-12T01:00Z,73,18,203836,greenwich collision
+2018-01-13T01:00Z,54,9,112561,tower hamlets collision
+2018-01-14T01:00Z,66,10,108408,haringey collision
+2018-01-15T01:00Z,69,8,329258,tower hamlets collision
+2018-01-16T01:00Z,84,10,436870,bexley collision
+2018-01-17T01:00Z,83,8,291758,haringey collision
+2018-01-18T01:00Z,93,7,57424,croydon collision
+2018-01-19T01:00Z,98,7,69637,redbridge collision
+2018-01-20T01:00Z,88,8,402731,southwark collision
+2018-01-21T01:00Z,51,9,93316,barking and dagenham collision
+2018-01-22T01:00Z,72,7,4808,barnet collision
+2018-01-23T01:00Z,72,11,34202,newham collision
+2018-01-24T01:00Z,90,10,140109,tower hamlets collision
+2018-01-25T01:00Z,85,12,35096,greenwich collision
+2018-01-26T01:00Z,69,20,3809,tower hamlets collision
+2018-01-27T01:00Z,68,6,146637,lambeth collision
+2018-01-28T01:00Z,56,10,5964,barnet collision
+2018-01-29T01:00Z,81,5,11595,brent collision
+2018-01-30T01:00Z,69,8,747372,tower hamlets collision
+2018-01-31T01:00Z,90,4,64496,tower hamlets collision
+2018-02-01T01:00Z,97,17,157058,lambeth collision
+2018-02-02T01:00Z,92,5,192148,camden collision
+2018-02-03T01:00Z,69,9,34516,bexley collision
+2018-02-04T01:00Z,49,8,108683,tower hamlets collision
+2018-02-05T01:00Z,77,7,93497,lewisham collision
+2018-02-06T01:00Z,53,9,25550,barnet collision
+2018-02-07T01:00Z,69,12,10714,tower hamlets collision
+2018-02-08T01:00Z,62,8,29956,haringey collision
+2018-02-09T01:00Z,80,8,11407,bexley collision
+2018-02-10T01:00Z,72,4,148860,hackney collision
+2018-02-11T01:00Z,65,5,61635,hounslow collision
+2018-02-12T01:00Z,66,21,25602,camden collision
+2018-02-13T01:00Z,86,9,618205,brent collision
+2018-02-14T01:00Z,86,8,1078446,ealing collision
+2018-02-15T01:00Z,69,8,624748,newham collision
+2018-02-16T01:00Z,71,14,1339374,barnet collision
+2018-02-17T01:00Z,96,8,582391,lambeth collision
+2018-02-18T01:00Z,67,7,678559,newham collision
+2018-02-19T01:00Z,65,8,472526,ealing collision
+2018-02-20T01:00Z,63,7,1429869,barking and dagenham collision
+2018-02-21T01:00Z,77,11,2650624,lambeth collision
+2018-02-22T01:00Z,61,11,115615,brent collision
+2018-02-23T01:00Z,88,14,146621,tower hamlets collision
+2018-02-24T01:00Z,77,6,404551,brent collision
+2018-02-25T01:00Z,52,9,378604,barking and dagenham collision
+2018-02-26T01:00Z,57,9,47518,ealing collision
+2018-02-27T01:00Z,62,14,142001,havering collision
+2018-02-28T01:00Z,50,5,166264,enfield collision
+2018-03-01T01:00Z,32,3,506228,bromley collision
+2018-03-02T01:00Z,56,2,689,brent collision
+2018-03-03T01:00Z,48,8,93467,kensington an chelsea collision
+2018-03-04T01:00Z,33,11,4051,croydon collision
+2018-03-05T01:00Z,63,12,43707,brent collision
+2018-03-06T01:00Z,66,13,355200,newham collision
+2018-03-07T01:00Z,65,6,375525,redbridge collision
+2018-03-08T01:00Z,80,17,125897,hillingdon collision
+2018-03-09T01:00Z,81,9,143560,barking and dagenham collision
+2018-03-10T01:00Z,64,8,339501,hammersmith and fulham collision
+2018-03-11T01:00Z,51,11,338319,barnet collision
+2018-03-12T01:00Z,63,11,325585,croydon collision
+2018-03-13T01:00Z,71,10,29044,ealing collision
+2018-03-14T01:00Z,77,7,96695,wandsworth collision
+2018-03-15T01:00Z,67,13,148002,greenwich collision
+2018-03-16T01:00Z,79,13,341958,lambeth collision
+2018-03-17T01:00Z,66,10,179008,havering collision
+2018-03-18T01:00Z,46,11,455207,havering collision
+2018-03-19T01:00Z,44,7,777296,barking and dagenham collision
+2018-03-20T01:00Z,75,9,222908,lambeth collision
+2018-03-21T01:00Z,87,13,227335,tower hamlets collision
+2018-03-22T01:00Z,56,6,21634,barnet collision
+2018-03-23T01:00Z,76,9,217247,lambeth collision
+2018-03-24T01:00Z,81,9,138680,ealing collision
+2018-03-25T01:00Z,58,10,457582,ealing collision
+2018-03-26T01:00Z,68,7,437660,islington collision
+2018-03-27T01:00Z,65,10,581816,hackney collision
+2018-03-28T01:00Z,57,13,304660,barnet collision
+2018-03-29T01:00Z,91,8,263793,lambeth collision
+2018-03-30T01:00Z,56,6,910609,haringey collision
+2018-03-31T01:00Z,49,10,150891,ealing collision
+2018-04-01T01:00Z,48,5,783509,hillingdon collision
+2018-04-02T01:00Z,39,7,412628,bromley collision
+2018-04-03T01:00Z,51,6,228130,barking and dagenham collision
+2018-04-04T01:00Z,34,4,191316,croydon collision
+2018-04-05T01:00Z,83,19,18535,ealing collision
+2018-04-06T01:00Z,66,6,49232,lewisham collision
+2018-04-07T01:00Z,73,10,573003,southwark collision
+2018-04-08T01:00Z,64,6,182107,enfield collision
+2018-04-09T01:00Z,57,6,239281,brent collision
+2018-04-10T01:00Z,56,5,792215,richmond upon thames collision
+2018-04-11T01:00Z,62,17,27130,camden collision
+2018-04-12T01:00Z,59,8,530875,enfield collision
+2018-04-13T01:00Z,64,11,172685,islington collision
+2018-04-14T01:00Z,71,10,273020,southwark collision
+2018-04-15T01:00Z,55,8,587196,barnet collision
+2018-04-16T01:00Z,70,5,115921,croydon collision
+2018-04-17T01:00Z,63,11,349270,lewisham collision
+2018-04-18T01:00Z,98,22,427217,redbridge collision
+2018-04-19T01:00Z,81,16,453773,waltham forest collision
+2018-04-20T01:00Z,78,11,403292,barking and dagenham collision
+2018-04-21T01:00Z,115,18,22791,newham collision
+2018-04-22T01:00Z,58,5,183024,enfield collision
+2018-04-23T01:00Z,79,15,6879,hounslow collision
+2018-04-24T01:00Z,78,12,268213,havering collision
+2018-04-25T01:00Z,85,14,329913,lambeth collision
+2018-04-26T01:00Z,71,15,321241,southwark collision
+2018-04-27T01:00Z,97,13,227325,ealing collision
+2018-04-28T01:00Z,79,17,284759,barking and dagenham collision
+2018-04-29T01:00Z,50,3,54900,lewisham collision
+2018-04-30T01:00Z,66,4,342100,lewisham collision
+2018-05-01T01:00Z,74,14,75608,haringey collision
+2018-05-02T01:00Z,94,10,78304,barking and dagenham collision
+2018-05-03T01:00Z,88,14,286182,lambeth collision
+2018-05-04T01:00Z,97,14,261368,hackney collision
+2018-05-05T01:00Z,61,13,717027,lambeth collision
+2018-05-06T01:00Z,54,12,8775,islington collision
+2018-05-07T01:00Z,71,10,44599,islington collision
+2018-05-08T01:00Z,100,16,13391,southwark collision
+2018-05-09T01:00Z,77,12,140598,camden collision
+2018-05-10T01:00Z,77,13,153710,hounslow collision
+2018-05-11T01:00Z,82,7,437275,enfield collision
+2018-05-12T01:00Z,98,10,114370,wandsworth collision
+2018-05-13T01:00Z,65,5,16716,hammersmith and fulham collision
+2018-05-14T01:00Z,80,8,274854,ealing collision
+2018-05-15T01:00Z,74,16,128916,southwark collision
+2018-05-16T01:00Z,81,10,134500,kingston upon thames collision
+2018-05-17T01:00Z,98,12,63200,barnet collision
+2018-05-18T01:00Z,85,17,20310,barking and dagenham collision
+2018-05-19T01:00Z,89,17,3941,barking and dagenham collision
+2018-05-20T01:00Z,59,13,76514,ealing collision
+2018-05-21T01:00Z,67,12,6457,croydon collision
+2018-05-22T01:00Z,81,15,128995,tower hamlets collision
+2018-05-23T01:00Z,88,11,32238,lambeth collision
+2018-05-24T01:00Z,52,12,92745,camden collision
+2018-05-25T01:00Z,103,20,628645,barking and dagenham collision
+2018-05-26T01:00Z,78,11,20539,merton collision
+2018-05-27T01:00Z,75,2,67054,havering collision
+2018-05-28T01:00Z,53,9,456144,hillingdon collision
+2018-05-29T01:00Z,91,10,406010,barnet collision
+2018-05-30T01:00Z,64,13,242685,tower hamlets collision
+2018-05-31T01:00Z,58,9,597552,harrow collision
+2018-06-01T01:00Z,78,9,694687,hounslow collision
+2018-06-02T01:00Z,46,6,424146,brent collision
+2018-06-03T01:00Z,68,6,479653,tower hamlets collision
+2018-06-04T01:00Z,59,8,163347,southwark collision
+2018-06-05T01:00Z,77,11,264421,lewisham collision
+2018-06-06T01:00Z,86,17,99295,greenwich collision
+2018-06-07T01:00Z,72,11,32856,tower hamlets collision
+2018-06-08T01:00Z,78,10,156570,enfield collision
+2018-06-09T01:00Z,75,5,119959,newham collision
+2018-06-10T01:00Z,59,10,110263,newham collision
+2018-06-11T01:00Z,102,15,185482,ealing collision
+2018-06-12T01:00Z,74,12,272066,enfield collision
+2018-06-13T01:00Z,68,2,340318,lambeth collision
+2018-06-14T01:00Z,97,16,27386,wandsworth collision
+2018-06-15T01:00Z,73,16,198999,tower hamlets collision
+2018-06-16T01:00Z,90,9,133790,tower hamlets collision
+2018-06-17T01:00Z,55,7,106267,barnet collision
+2018-06-18T01:00Z,75,12,216742,wandsworth collision
+2018-06-19T01:00Z,74,20,198928,enfield collision
+2018-06-20T01:00Z,79,12,616153,waltham forest collision
+2018-06-21T01:00Z,122,13,16708,ealing collision
+2018-06-22T01:00Z,79,16,227962,lambeth collision
+2018-06-23T01:00Z,64,20,110159,barnet collision
+2018-06-24T01:00Z,85,14,254956,ealing collision
+2018-06-25T01:00Z,104,11,279816,barnet collision
+2018-06-26T01:00Z,109,7,312411,hounslow collision
+2018-06-27T01:00Z,90,19,134615,hillingdon collision
+2018-06-28T01:00Z,66,15,387377,enfield collision
+2018-06-29T01:00Z,131,12,178735,tower hamlets collision
+2018-06-30T01:00Z,87,17,217762,redbridge collision
+2018-07-01T01:00Z,62,20,616584,newham collision
+2018-07-02T01:00Z,98,15,188028,hackney collision
+2018-07-03T01:00Z,101,9,74059,ealing collision
+2018-07-04T01:00Z,81,9,461644,hammersmith and fulham collision
+2018-07-05T01:00Z,85,15,456089,wandsworth collision
+2018-07-06T01:00Z,78,21,308747,hackney collision
+2018-07-07T01:00Z,72,10,73168,bexley collision
+2018-07-08T01:00Z,74,10,713376,southwark collision
+2018-07-09T01:00Z,74,8,2909,tower hamlets collision
+2018-07-10T01:00Z,101,23,235090,lewisham collision
+2018-07-11T01:00Z,93,15,208331,kensington an chelsea collision
+2018-07-12T01:00Z,82,17,491777,haringey collision
+2018-07-13T01:00Z,97,18,596916,camden collision
+2018-07-14T01:00Z,60,9,84596,hounslow collision
+2018-07-15T01:00Z,57,7,1071572,enfield collision
+2018-07-16T01:00Z,69,13,466693,barking and dagenham collision
+2018-07-17T01:00Z,82,20,94142,southwark collision
+2018-07-18T01:00Z,64,14,686278,brent collision
+2018-07-19T01:00Z,63,9,1129779,ealing collision
+2018-07-20T01:00Z,68,11,61442,barking and dagenham collision
+2018-07-21T01:00Z,65,4,61580,brent collision
+2018-07-22T01:00Z,60,12,49510,lambeth collision
+2018-07-23T01:00Z,78,15,233180,lambeth collision
+2018-07-24T01:00Z,72,8,314380,hillingdon collision
+2018-07-25T01:00Z,75,14,184388,tower hamlets collision
+2018-07-26T01:00Z,68,8,403627,tower hamlets collision
+2018-07-27T01:00Z,94,10,47861,barnet collision
+2018-07-28T01:00Z,68,5,986,hackney collision
+2018-07-29T01:00Z,66,7,572096,enfield collision
+2018-07-30T01:00Z,59,11,172970,tower hamlets collision
+2018-07-31T01:00Z,66,7,729636,haringey collision
+2018-08-01T01:00Z,83,11,1055800,hackney collision
+2018-08-02T01:00Z,70,13,115555,lambeth collision
+2018-08-03T01:00Z,68,17,595737,hackney collision
+2018-08-04T01:00Z,64,12,1030626,southwark collision
+2018-08-05T01:00Z,78,9,207062,lambeth collision
+2018-08-06T01:00Z,82,9,761903,hillingdon collision
+2018-08-07T01:00Z,70,12,37818,southwark collision
+2018-08-08T01:00Z,72,13,332728,ealing collision
+2018-08-09T01:00Z,86,9,138,redbridge collision
+2018-08-10T01:00Z,93,12,510101,lambeth collision
+2018-08-11T01:00Z,52,13,184481,southwark collision
+2018-08-12T01:00Z,35,7,433103,hackney collision
+2018-08-13T01:00Z,58,11,59617,bexley collision
+2018-08-14T01:00Z,58,12,100019,ealing collision
+2018-08-15T01:00Z,70,13,110383,brent collision
+2018-08-16T01:00Z,57,6,58836,hackney collision
+2018-08-17T01:00Z,67,7,68872,hounslow collision
+2018-08-18T01:00Z,53,5,165890,southwark collision
+2018-08-19T01:00Z,43,6,29216,waltham forest collision
+2018-08-20T01:00Z,51,7,660484,merton collision
+2018-08-21T01:00Z,62,7,282506,waltham forest collision
+2018-08-22T01:00Z,64,17,255664,barnet collision
+2018-08-23T01:00Z,73,9,180238,hammersmith and fulham collision
+2018-08-24T01:00Z,63,15,68397,hillingdon collision
+2018-08-25T01:00Z,60,8,108690,newham collision
+2018-08-26T01:00Z,70,10,195538,newham collision
+2018-08-27T01:00Z,50,6,129410,redbridge collision
+2018-08-28T01:00Z,59,10,88390,hillingdon collision
+2018-08-29T01:00Z,55,8,105500,redbridge collision
+2018-08-30T01:00Z,76,7,11412,bromley collision
+2018-08-31T01:00Z,57,13,672741,southwark collision
+2018-09-01T01:00Z,75,7,165402,newham collision
+2018-09-02T01:00Z,82,11,170389,newham collision
+2018-09-03T01:00Z,65,11,465984,hounslow collision
+2018-09-04T01:00Z,70,14,63786,tower hamlets collision
+2018-09-05T01:00Z,75,10,411344,croydon collision
+2018-09-06T01:00Z,71,14,603319,ealing collision
+2018-09-07T01:00Z,78,8,781060,hammersmith and fulham collision
+2018-09-08T01:00Z,60,9,33523,lambeth collision
+2018-09-09T01:00Z,72,11,24995,hillingdon collision
+2018-09-10T01:00Z,61,9,311284,bexley collision
+2018-09-11T01:00Z,78,13,209216,tower hamlets collision
+2018-09-12T01:00Z,73,16,147521,ealing collision
+2018-09-13T01:00Z,94,16,198456,redbridge collision
+2018-09-14T01:00Z,82,7,199505,islington collision
+2018-09-15T01:00Z,79,12,828587,brent collision
+2018-09-16T01:00Z,48,9,229489,barnet collision
+2018-09-17T01:00Z,71,16,237403,newham collision
+2018-09-18T01:00Z,67,22,34154,southwark collision
+2018-09-19T01:00Z,91,12,391988,greenwich collision
+2018-09-20T01:00Z,67,13,353602,croydon collision
+2018-09-21T01:00Z,78,12,422714,southwark collision
+2018-09-22T01:00Z,94,9,25609,tower hamlets collision
+2018-09-23T01:00Z,60,8,63334,haringey collision
+2018-09-24T01:00Z,81,11,326330,barnet collision
+2018-09-25T01:00Z,86,13,243069,greenwich collision
+2018-09-26T01:00Z,77,13,869364,barnet collision
+2018-09-27T01:00Z,79,12,164561,barnet collision
+2018-09-28T01:00Z,90,12,153015,enfield collision
+2018-09-29T01:00Z,97,10,62304,brent collision
+2018-09-30T01:00Z,63,15,196603,newham collision
+2018-10-01T01:00Z,66,13,477641,barnet collision
+2018-10-02T01:00Z,66,8,754998,enfield collision
+2018-10-03T01:00Z,87,17,70993,lambeth collision
+2018-10-04T01:00Z,74,7,217194,islington collision
+2018-10-05T01:00Z,83,16,278357,enfield collision
+2018-10-06T01:00Z,95,20,504811,enfield collision
+2018-10-07T01:00Z,60,10,381298,camden collision
+2018-10-08T01:00Z,82,9,152297,waltham forest collision
+2018-10-09T01:00Z,89,12,306551,lambeth collision
+2018-10-10T01:00Z,100,17,414794,wandsworth collision
+2018-10-11T01:00Z,71,13,620041,enfield collision
+2018-10-12T01:00Z,81,14,253072,brent collision
+2018-10-13T01:00Z,71,8,719829,newham collision
+2018-10-14T01:00Z,79,12,1355369,enfield collision
+2018-10-15T01:00Z,55,11,387164,enfield collision
+2018-10-16T01:00Z,81,12,172288,barnet collision
+2018-10-17T01:00Z,82,10,1368242,lambeth collision
+2018-10-18T01:00Z,59,11,237404,hammersmith and fulham collision
+2018-10-19T01:00Z,92,19,252418,kensington an chelsea collision
+2018-10-20T01:00Z,77,11,364879,ealing collision
+2018-10-21T01:00Z,70,6,962612,bromley collision
+2018-10-22T01:00Z,83,17,387597,lewisham collision
+2018-10-23T01:00Z,66,8,1058476,haringey collision
+2018-10-24T01:00Z,69,9,452822,havering collision
+2018-10-25T01:00Z,79,12,28789,havering collision
+2018-10-26T01:00Z,86,23,106090,ealing collision
+2018-10-27T01:00Z,72,10,720061,hammersmith and fulham collision
+2018-10-28T01:00Z,58,8,246078,havering collision
+2018-10-29T01:00Z,82,15,399094,bromley collision
+2018-10-30T01:00Z,50,12,196710,brent collision
+2018-10-31T01:00Z,84,11,220637,barnet collision
+2018-11-01T01:00Z,88,8,239155,lambeth collision
+2018-11-02T01:00Z,111,15,38280,hillingdon collision
+2018-11-03T01:00Z,83,8,184149,lewisham collision
+2018-11-04T01:00Z,50,3,77063,hounslow collision
+2018-11-05T01:00Z,53,7,104034,ealing collision
+2018-11-06T01:00Z,61,12,292521,hillingdon collision
+2018-11-07T01:00Z,75,12,76725,croydon collision
+2018-11-08T01:00Z,94,13,294835,hounslow collision
+2018-11-09T01:00Z,95,15,885381,lambeth collision
+2018-11-10T01:00Z,95,11,347575,hounslow collision
+2018-11-11T01:00Z,82,9,122862,tower hamlets collision
+2018-11-12T01:00Z,85,13,1329145,hillingdon collision
+2018-11-13T01:00Z,105,19,60146,barnet collision
+2018-11-14T01:00Z,81,10,919812,tower hamlets collision
+2018-11-15T01:00Z,62,15,52538,southwark collision
+2018-11-16T01:00Z,75,8,91671,harrow collision
+2018-11-17T01:00Z,71,13,132639,merton collision
+2018-11-18T01:00Z,44,14,102594,croydon collision
+2018-11-19T01:00Z,99,11,194820,camden collision
+2018-11-20T01:00Z,86,11,71478,havering collision
+2018-11-21T01:00Z,75,14,99925,lambeth collision
+2018-11-22T01:00Z,72,9,98408,barnet collision
+2018-11-23T01:00Z,82,10,42395,croydon collision
+2018-11-24T01:00Z,72,6,91199,barking and dagenham collision
+2018-11-25T01:00Z,55,14,321842,wandsworth collision
+2018-11-26T01:00Z,73,13,103628,camden collision
+2018-11-27T01:00Z,83,11,485721,waltham forest collision
+2018-11-28T01:00Z,101,12,283779,bromley collision
+2018-11-29T01:00Z,76,12,174110,hammersmith and fulham collision
+2018-11-30T01:00Z,102,12,35829,hillingdon collision
+2018-12-01T01:00Z,81,13,467626,newham collision
+2018-12-02T01:00Z,56,5,330954,hounslow collision
+2018-12-03T01:00Z,84,6,558303,greenwich collision
+2018-12-04T01:00Z,90,15,26294,hounslow collision
+2018-12-05T01:00Z,73,19,72383,harrow collision
+2018-12-06T01:00Z,78,14,4324,lambeth collision
+2018-12-07T01:00Z,101,9,13945,newham collision
+2018-12-08T01:00Z,77,7,962759,greenwich collision
+2018-12-09T01:00Z,47,7,74623,ealing collision
+2018-12-10T01:00Z,56,9,234798,merton collision
+2018-12-11T01:00Z,83,14,119791,bromley collision
+2018-12-12T01:00Z,92,16,269390,hillingdon collision
+2018-12-13T01:00Z,87,17,257647,hounslow collision
+2018-12-14T01:00Z,74,13,156886,barnet collision
+2018-12-15T01:00Z,97,7,193328,ealing collision
+2018-12-16T01:00Z,62,7,96508,enfield collision
+2018-12-17T01:00Z,74,10,235997,haringey collision
+2018-12-18T01:00Z,80,12,183789,camden collision
+2018-12-19T01:00Z,74,7,22671,greenwich collision
+2018-12-20T01:00Z,67,14,70366,ealing collision
+2018-12-21T01:00Z,79,13,148540,greenwich collision
+2018-12-22T01:00Z,73,8,136310,ealing collision
+2018-12-23T01:00Z,54,7,377004,bromley collision
+2018-12-24T01:00Z,63,6,373597,havering collision
+2018-12-25T01:00Z,28,9,204257,ealing collision
+2018-12-26T01:00Z,34,5,374242,barking and dagenham collision
+2018-12-27T01:00Z,57,3,312658,redbridge collision
+2018-12-28T01:00Z,42,11,326987,redbridge collision
+2018-12-29T01:00Z,45,10,72616,bromley collision
+2018-12-30T01:00Z,57,4,696381,greenwich collision
+2018-12-31T01:00Z,62,11,150569,enfield collision
+2019-01-01T01:00Z,52,8,375671,tower hamlets collision
+2019-01-02T01:00Z,48,4,492802,bexley collision
+2019-01-03T01:00Z,52,8,359764,havering collision
+2019-01-04T01:00Z,49,7,220652,enfield collision
+2019-01-05T01:00Z,44,11,728127,newham collision
+2019-01-06T01:00Z,32,4,150249,croydon collision
+2019-01-07T01:00Z,61,6,672645,barking and dagenham collision
+2019-01-08T01:00Z,56,13,291995,brent collision
+2019-01-09T01:00Z,73,12,218207,lewisham collision
+2019-01-10T01:00Z,74,18,517246,croydon collision
+2019-01-11T01:00Z,69,9,379063,bromley collision
+2019-01-12T01:00Z,56,9,272916,ealing collision
+2019-01-13T01:00Z,31,4,288781,brent collision
+2019-01-14T01:00Z,47,13,320551,barnet collision
+2019-01-15T01:00Z,47,11,715298,redbridge collision
+2019-01-16T01:00Z,71,13,124165,hackney collision
+2019-01-17T01:00Z,86,2,481356,haringey collision
+2019-01-18T01:00Z,79,10,136078,croydon collision
+2019-01-19T01:00Z,56,7,314184,wandsworth collision
+2019-01-20T01:00Z,54,10,255638,bromley collision
+2019-01-21T01:00Z,67,7,311207,lambeth collision
+2019-01-22T01:00Z,88,8,330980,lewisham collision
+2019-01-23T01:00Z,93,17,311010,southwark collision
+2019-01-24T01:00Z,78,6,177224,croydon collision
+2019-01-25T01:00Z,65,15,516007,tower hamlets collision
+2019-01-26T01:00Z,67,7,227489,haringey collision
+2019-01-27T01:00Z,35,11,246996,redbridge collision
+2019-01-28T01:00Z,79,16,185015,hackney collision
+2019-01-29T01:00Z,75,14,247908,hounslow collision
+2019-01-30T01:00Z,85,15,382684,redbridge collision
+2019-01-31T01:00Z,56,10,215328,ealing collision
+2019-02-01T01:00Z,74,14,627320,lambeth collision
+2019-02-02T01:00Z,79,12,522375,newham collision
+2019-02-03T01:00Z,86,14,334668,lambeth collision
+2019-02-04T01:00Z,64,7,761522,hammersmith and fulham collision
+2019-02-05T01:00Z,69,14,281282,croydon collision
+2019-02-06T01:00Z,58,12,222639,bromley collision
+2019-02-07T01:00Z,51,9,179491,hammersmith and fulham collision
+2019-02-08T01:00Z,70,8,457591,tower hamlets collision
+2019-02-09T01:00Z,67,13,134922,lambeth collision
+2019-02-10T01:00Z,67,5,209724,greenwich collision
+2019-02-11T01:00Z,58,11,273737,wandsworth collision
+2019-02-12T01:00Z,53,10,251739,redbridge collision
+2019-02-13T01:00Z,68,14,157575,enfield collision
+2019-02-14T01:00Z,96,12,296771,brent collision
+2019-02-15T01:00Z,76,12,274795,waltham forest collision
+2019-02-16T01:00Z,68,4,207348,greenwich collision
+2019-02-17T01:00Z,63,8,560947,newham collision
+2019-02-18T01:00Z,77,6,407308,ealing collision
+2019-02-19T01:00Z,76,14,137500,tower hamlets collision
+2019-02-20T01:00Z,74,4,85618,croydon collision
+2019-02-21T01:00Z,64,17,234416,haringey collision
+2019-02-22T01:00Z,67,13,387647,hammersmith and fulham collision
+2019-02-23T01:00Z,69,16,155942,tower hamlets collision
+2019-02-24T01:00Z,62,13,164500,ealing collision
+2019-02-25T01:00Z,73,13,141312,barnet collision
+2019-02-26T01:00Z,75,13,668462,havering collision
+2019-02-27T01:00Z,75,12,140972,wandsworth collision
+2019-02-28T01:00Z,64,8,106943,newham collision
+2019-03-01T01:00Z,54,11,79396,redbridge collision
+2019-03-02T01:00Z,73,8,353997,lambeth collision
+2019-03-03T01:00Z,42,12,116799,ealing collision
+2019-03-04T01:00Z,66,14,328643,southwark collision
+2019-03-05T01:00Z,69,16,46268,lambeth collision
+2019-03-06T01:00Z,72,12,236656,hackney collision
+2019-03-07T01:00Z,68,12,251723,croydon collision
+2019-03-08T01:00Z,81,11,148568,ealing collision
+2019-03-09T01:00Z,52,15,318963,haringey collision
+2019-03-10T01:00Z,44,5,322135,hackney collision
+2019-03-11T01:00Z,73,6,215665,hillingdon collision
+2019-03-12T01:00Z,77,11,130818,tower hamlets collision
+2019-03-13T01:00Z,70,8,44163,enfield collision
+2019-03-14T01:00Z,61,9,209806,ealing collision
+2019-03-15T01:00Z,80,9,199945,newham collision
+2019-03-16T01:00Z,57,6,45983,redbridge collision
+2019-03-17T01:00Z,63,9,110536,enfield collision
+2019-03-18T01:00Z,57,13,455947,wandsworth collision
+2019-03-19T01:00Z,49,12,56641,southwark collision
+2019-03-20T01:00Z,72,14,451363,tower hamlets collision
+2019-03-21T01:00Z,58,11,109600,barking and dagenham collision
+2019-03-22T01:00Z,65,11,668497,waltham forest collision
+2019-03-23T01:00Z,74,10,107350,barnet collision
+2019-03-24T01:00Z,56,7,291068,newham collision
+2019-03-25T01:00Z,73,11,106260,wandsworth collision
+2019-03-26T01:00Z,75,15,281280,southwark collision
+2019-03-27T01:00Z,57,9,178256,hounslow collision
+2019-03-28T01:00Z,59,8,305709,camden collision
+2019-03-29T01:00Z,99,21,314847,havering collision
+2019-03-30T01:00Z,81,13,365498,haringey collision
+2019-03-31T01:00Z,73,12,75483,croydon collision
+2019-04-01T01:00Z,87,10,204727,brent collision
+2019-04-02T01:00Z,85,5,164547,haringey collision
+2019-04-03T01:00Z,74,10,358491,croydon collision
+2019-04-04T01:00Z,83,10,76806,croydon collision
+2019-04-05T01:00Z,65,9,119145,bromley collision
+2019-04-06T01:00Z,55,6,662552,lewisham collision
+2019-04-07T01:00Z,66,6,1038206,hackney collision
+2019-04-08T01:00Z,48,4,102592,camden collision
+2019-04-09T01:00Z,41,13,146868,bromley collision
+2019-04-10T01:00Z,78,12,59928,bromley collision
+2019-04-11T01:00Z,56,6,50435,hounslow collision
+2019-04-12T01:00Z,63,7,248459,lambeth collision
+2019-04-13T01:00Z,61,15,62704,newham collision
+2019-04-14T01:00Z,58,9,218641,merton collision
+2019-04-15T01:00Z,57,7,457238,redbridge collision
+2019-04-16T01:00Z,52,14,149353,ealing collision
+2019-04-17T01:00Z,53,10,84921,croydon collision
+2019-04-18T01:00Z,68,9,481548,barnet collision
+2019-04-19T01:00Z,48,10,643693,croydon collision
+2019-04-20T01:00Z,77,12,186697,kensington an chelsea collision
+2019-04-21T01:00Z,52,9,659707,wandsworth collision
+2019-04-22T01:00Z,42,5,321210,tower hamlets collision
+2019-04-23T01:00Z,61,5,194252,haringey collision
+2019-04-24T01:00Z,73,13,278266,islington collision
+2019-04-25T01:00Z,73,9,174138,croydon collision
+2019-04-26T01:00Z,81,15,205276,enfield collision
+2019-04-27T01:00Z,60,6,94543,waltham forest collision
+2019-04-28T01:00Z,48,6,134416,newham collision
+2019-04-29T01:00Z,72,11,672677,barking and dagenham collision
+2019-04-30T01:00Z,74,9,135640,enfield collision
+2019-05-01T01:00Z,72,8,91030,hounslow collision
+2019-05-02T01:00Z,71,13,407612,newham collision
+2019-05-03T01:00Z,77,14,188256,tower hamlets collision
+2019-05-04T01:00Z,78,16,231106,croydon collision
+2019-05-05T01:00Z,81,8,128538,redbridge collision
+2019-05-06T01:00Z,52,5,101907,havering collision
+2019-05-07T01:00Z,92,14,201676,newham collision
+2019-05-08T01:00Z,56,10,57125,sutton collision
+2019-05-09T01:00Z,77,7,331739,barnet collision
+2019-05-10T01:00Z,73,10,264393,enfield collision
+2019-05-11T01:00Z,75,12,212913,enfield collision
+2019-05-12T01:00Z,70,12,941069,tower hamlets collision
+2019-05-13T01:00Z,96,7,513827,hillingdon collision
+2019-05-14T01:00Z,67,8,537909,hounslow collision
+2019-05-15T01:00Z,79,14,365603,brent collision
+2019-05-16T01:00Z,90,21,135291,kensington an chelsea collision
+2019-05-17T01:00Z,66,5,525706,haringey collision
+2019-05-18T01:00Z,76,15,202197,croydon collision
+2019-05-19T01:00Z,52,9,403978,barnet collision
+2019-05-20T01:00Z,65,11,479227,bromley collision
+2019-05-21T01:00Z,79,14,98598,wandsworth collision
+2019-05-22T01:00Z,83,19,39092,newham collision
+2019-05-23T01:00Z,90,17,348438,barnet collision
+2019-05-24T01:00Z,102,12,50685,brent collision
+2019-05-25T01:00Z,50,9,181127,haringey collision
+2019-05-26T01:00Z,56,6,64411,newham collision
+2019-05-27T01:00Z,46,6,366836,croydon collision
+2019-05-28T01:00Z,49,4,108187,enfield collision
+2019-05-29T01:00Z,67,10,195553,redbridge collision
+2019-05-30T01:00Z,65,11,325050,hackney collision
+2019-05-31T01:00Z,57,8,270694,newham collision
+2019-06-01T01:00Z,76,11,132331,newham collision
+2019-06-02T01:00Z,52,9,295984,croydon collision
+2019-06-03T01:00Z,75,14,60330,croydon collision
+2019-06-04T01:00Z,109,9,434369,newham collision
+2019-06-05T01:00Z,62,12,620068,greenwich collision
+2019-06-06T01:00Z,84,9,220900,barking and dagenham collision
+2019-06-07T01:00Z,110,9,609050,barnet collision
+2019-06-08T01:00Z,78,9,1377433,lambeth collision
+2019-06-09T01:00Z,57,6,172350,enfield collision
+2019-06-10T01:00Z,81,11,92718,hillingdon collision
+2019-06-11T01:00Z,64,15,43447,hackney collision
+2019-06-12T01:00Z,85,5,102417,croydon collision
+2019-06-13T01:00Z,72,6,95790,hounslow collision
+2019-06-14T01:00Z,69,16,62623,bromley collision
+2019-06-15T01:00Z,75,5,240710,greenwich collision
+2019-06-16T01:00Z,90,14,98113,newham collision
+2019-06-17T01:00Z,62,6,274495,haringey collision
+2019-06-18T01:00Z,90,9,96865,hounslow collision
+2019-06-19T01:00Z,77,10,235872,wandsworth collision
+2019-06-20T01:00Z,76,18,86647,croydon collision
+2019-06-21T01:00Z,80,15,64821,haringey collision
+2019-06-22T01:00Z,87,12,258682,croydon collision
+2019-06-23T01:00Z,67,8,90809,waltham forest collision
+2019-06-24T01:00Z,75,18,159429,brent collision
+2019-06-25T01:00Z,71,7,150984,havering collision
+2019-06-26T01:00Z,61,6,526648,barnet collision
+2019-06-27T01:00Z,81,16,186907,ealing collision
+2019-06-28T01:00Z,94,12,28071,hackney collision
+2019-06-29T01:00Z,102,14,7754,hillingdon collision
+2019-06-30T01:00Z,67,11,24900,ealing collision
+2019-07-01T01:00Z,81,18,16140,ealing collision
+2019-07-02T01:00Z,74,10,138833,barnet collision
+2019-07-03T01:00Z,75,13,81854,brent collision
+2019-07-04T01:00Z,72,15,146543,southwark collision
+2019-07-05T01:00Z,107,17,41482,barking and dagenham collision
+2019-07-06T01:00Z,60,6,217636,tower hamlets collision
+2019-07-07T01:00Z,64,9,50372,hackney collision
+2019-07-08T01:00Z,88,10,99980,ealing collision
+2019-07-09T01:00Z,69,10,105936,wandsworth collision
+2019-07-10T01:00Z,72,16,72180,southwark collision
+2019-07-11T01:00Z,73,12,1119,haringey collision
+2019-07-12T01:00Z,93,17,64467,lambeth collision
+2019-07-13T01:00Z,53,10,43242,barnet collision
+2019-07-14T01:00Z,63,9,67546,croydon collision
+2019-07-15T01:00Z,97,9,84858,tower hamlets collision
+2019-07-16T01:00Z,68,8,186891,brent collision
+2019-07-17T01:00Z,82,17,288591,barnet collision
+2019-07-18T01:00Z,67,9,3586,barnet collision
+2019-07-19T01:00Z,86,6,6976,newham collision
+2019-07-20T01:00Z,81,12,32033,wandsworth collision
+2019-07-21T01:00Z,61,8,48251,lambeth collision
+2019-07-22T01:00Z,81,12,200839,hillingdon collision
+2019-07-23T01:00Z,107,14,43978,lambeth collision
+2019-07-24T01:00Z,82,15,24134,enfield collision
+2019-07-25T01:00Z,58,13,176722,camden collision
+2019-07-26T01:00Z,88,15,32150,southwark collision
+2019-07-27T01:00Z,62,10,215551,bromley collision
+2019-07-28T01:00Z,67,8,100125,greenwich collision
+2019-07-29T01:00Z,43,16,58049,haringey collision
+2019-07-30T01:00Z,59,6,52334,brent collision
+2019-07-31T01:00Z,88,10,228550,greenwich collision
+2019-08-01T01:00Z,96,19,196523,hounslow collision
+2019-08-02T01:00Z,76,12,450784,wandsworth collision
+2019-08-03T01:00Z,58,8,148222,newham collision
+2019-08-04T01:00Z,61,13,285547,lambeth collision
+2019-08-05T01:00Z,55,11,1052247,kensington an chelsea collision
+2019-08-06T01:00Z,69,14,141911,croydon collision
+2019-08-07T01:00Z,62,8,28058,ealing collision
+2019-08-08T01:00Z,62,15,337907,lambeth collision
+2019-08-09T01:00Z,91,11,423714,kensington an chelsea collision
+2019-08-10T01:00Z,87,11,542714,tower hamlets collision
+2019-08-11T01:00Z,51,10,617462,newham collision
+2019-08-12T01:00Z,40,5,65448,hackney collision
+2019-08-13T01:00Z,47,12,91723,bromley collision
+2019-08-14T01:00Z,78,9,465878,redbridge collision
+2019-08-15T01:00Z,68,9,3522,croydon collision
+2019-08-16T01:00Z,81,8,85031,tower hamlets collision
+2019-08-17T01:00Z,79,10,43685,bromley collision
+2019-08-18T01:00Z,50,8,149700,barnet collision
+2019-08-19T01:00Z,72,16,24036,barking and dagenham collision
+2019-08-20T01:00Z,51,6,129084,tower hamlets collision
+2019-08-21T01:00Z,89,7,57592,lambeth collision
+2019-08-22T01:00Z,62,13,102746,southwark collision
+2019-08-23T01:00Z,86,13,213568,hackney collision
+2019-08-24T01:00Z,65,10,351931,barking and dagenham collision
+2019-08-25T01:00Z,74,13,33297,tower hamlets collision
+2019-08-26T01:00Z,67,5,290887,bromley collision
+2019-08-27T01:00Z,77,14,289934,barnet collision
+2019-08-28T01:00Z,64,8,40097,barnet collision
+2019-08-29T01:00Z,69,6,203836,lambeth collision
+2019-08-30T01:00Z,78,11,112561,lambeth collision
+2019-08-31T01:00Z,76,8,108408,redbridge collision
+2019-09-01T01:00Z,57,11,329258,tower hamlets collision
+2019-09-02T01:00Z,72,13,436870,greenwich collision
+2019-09-03T01:00Z,52,13,291758,barnet collision
+2019-09-04T01:00Z,86,11,57424,newham collision
+2019-09-05T01:00Z,71,11,69637,lambeth collision
+2019-09-06T01:00Z,72,13,402731,bexley collision
+2019-09-07T01:00Z,75,10,93316,lewisham collision
+2019-09-08T01:00Z,87,11,4808,barnet collision
+2019-09-09T01:00Z,80,9,34202,bexley collision
+2019-09-10T01:00Z,71,12,140109,ealing collision
+2019-09-11T01:00Z,65,11,35096,haringey collision
+2019-09-12T01:00Z,83,8,3809,newham collision
+2019-09-13T01:00Z,84,13,146637,brent collision
+2019-09-14T01:00Z,85,16,5964,haringey collision
+2019-09-15T01:00Z,61,15,11595,croydon collision
+2019-09-16T01:00Z,79,11,747372,barnet collision
+2019-09-17T01:00Z,99,12,64496,southwark collision
+2019-09-18T01:00Z,78,9,157058,southwark collision
+2019-09-19T01:00Z,82,11,192148,enfield collision
+2019-09-20T01:00Z,118,17,34516,newham collision
+2019-09-21T01:00Z,73,15,108683,barking and dagenham collision
+2019-09-22T01:00Z,46,5,93497,southwark collision
+2019-09-23T01:00Z,91,13,25550,brent collision
+2019-09-24T01:00Z,72,11,10714,tower hamlets collision
+2019-09-25T01:00Z,64,11,29956,brent collision
+2019-09-26T01:00Z,81,10,11407,lambeth collision
+2019-09-27T01:00Z,80,14,148860,greenwich collision
+2019-09-28T01:00Z,79,8,61635,waltham forest collision
+2019-09-29T01:00Z,53,5,25602,barnet collision
+2019-09-30T01:00Z,66,10,618205,lambeth collision
+2019-10-01T01:00Z,89,8,1078446,lambeth collision
+2019-10-02T01:00Z,94,8,624748,tower hamlets collision
+2019-10-03T01:00Z,71,9,1339374,southwark collision
+2019-10-04T01:00Z,103,8,582391,ealing collision
+2019-10-05T01:00Z,76,7,678559,barnet collision
+2019-10-06T01:00Z,62,4,472526,havering collision
+2019-10-07T01:00Z,64,12,1429869,ealing collision
+2019-10-08T01:00Z,89,13,2650624,ealing collision
+2019-10-09T01:00Z,85,10,115615,islington collision
+2019-10-10T01:00Z,75,14,146621,southwark collision
+2019-10-11T01:00Z,83,6,404551,ealing collision
+2019-10-12T01:00Z,76,6,378604,barnet collision
+2019-10-13T01:00Z,78,10,47518,hackney collision
+2019-10-14T01:00Z,91,10,142001,camden collision
+2019-10-15T01:00Z,72,14,166264,tower hamlets collision
+2019-10-16T01:00Z,88,13,506228,tower hamlets collision
+2019-10-17T01:00Z,69,11,689,croydon collision
+2019-10-18T01:00Z,72,15,93467,wandsworth collision
+2019-10-19T01:00Z,84,10,4051,ealing collision
+2019-10-20T01:00Z,66,2,43707,hillingdon collision
+2019-10-21T01:00Z,66,7,355200,merton collision
+2019-10-22T01:00Z,60,8,375525,hackney collision
+2019-10-23T01:00Z,73,7,125897,brent collision
+2019-10-24T01:00Z,69,12,143560,newham collision
+2019-10-25T01:00Z,76,11,339501,havering collision
+2019-10-26T01:00Z,89,10,338319,southwark collision
+2019-10-27T01:00Z,68,8,325585,croydon collision
+2019-10-28T01:00Z,82,8,29044,bromley collision
+2019-10-29T01:00Z,75,8,96695,greenwich collision
+2019-10-30T01:00Z,64,11,148002,haringey collision
+2019-10-31T01:00Z,115,9,341958,hackney collision
+2019-11-01T01:00Z,108,11,179008,southwark collision
+2019-11-02T01:00Z,98,9,455207,kensington an chelsea collision
+2019-11-03T01:00Z,69,4,777296,ealing collision
+2019-11-04T01:00Z,81,6,222908,bexley collision
+2019-11-05T01:00Z,78,5,227335,lewisham collision
+2019-11-06T01:00Z,67,4,21634,barnet collision
+2019-11-07T01:00Z,77,7,217247,tower hamlets collision
+2019-11-08T01:00Z,97,14,138680,wandsworth collision
+2019-11-09T01:00Z,75,8,457582,ealing collision
+2019-11-10T01:00Z,77,18,437660,barnet collision
+2019-11-11T01:00Z,86,10,581816,croydon collision
+2019-11-12T01:00Z,82,9,304660,redbridge collision
+2019-11-13T01:00Z,91,15,263793,lambeth collision
+2019-11-14T01:00Z,110,14,910609,hounslow collision
+2019-11-15T01:00Z,105,21,150891,enfield collision
+2019-11-16T01:00Z,68,8,783509,brent collision
+2019-11-17T01:00Z,51,6,412628,barnet collision
+2019-11-18T01:00Z,64,9,228130,barnet collision
+2019-11-19T01:00Z,59,10,191316,bromley collision
+2019-11-20T01:00Z,79,9,18535,lambeth collision
+2019-11-21T01:00Z,81,10,49232,enfield collision
+2019-11-22T01:00Z,82,13,573003,barnet collision
+2019-11-23T01:00Z,102,7,182107,waltham forest collision
+2019-11-24T01:00Z,48,8,239281,kensington an chelsea collision
+2019-11-25T01:00Z,73,10,792215,lewisham collision
+2019-11-26T01:00Z,78,12,27130,tower hamlets collision
+2019-11-27T01:00Z,80,11,530875,lambeth collision
+2019-11-28T01:00Z,94,14,172685,enfield collision
+2019-11-29T01:00Z,92,9,273020,croydon collision
+2019-11-30T01:00Z,83,11,587196,lambeth collision
+2019-12-01T01:00Z,60,6,115921,camden collision
+2019-12-02T01:00Z,99,12,349270,ealing collision
+2019-12-03T01:00Z,78,6,427217,bromley collision
+2019-12-04T01:00Z,118,18,453773,tower hamlets collision
+2019-12-05T01:00Z,87,6,403292,ealing collision
+2019-12-06T01:00Z,66,4,22791,barnet collision
+2019-12-07T01:00Z,59,14,183024,brent collision
+2019-12-08T01:00Z,63,13,6879,southwark collision
+2019-12-09T01:00Z,72,17,268213,hounslow collision
+2019-12-10T01:00Z,71,8,329913,lambeth collision
+2019-12-11T01:00Z,79,14,321241,barnet collision
+2019-12-12T01:00Z,80,13,227325,tower hamlets collision
+2019-12-13T01:00Z,96,13,284759,camden collision
+2019-12-14T01:00Z,90,12,54900,tower hamlets collision
+2019-12-15T01:00Z,53,9,342100,bromley collision
+2019-12-16T01:00Z,75,6,75608,lambeth collision
+2019-12-17T01:00Z,69,10,78304,camden collision
+2019-12-18T01:00Z,83,8,286182,enfield collision
+2019-12-19T01:00Z,70,12,261368,camden collision
+2019-12-20T01:00Z,92,8,717027,lambeth collision
+2019-12-21T01:00Z,74,5,8775,bromley collision
+2019-12-22T01:00Z,50,8,44599,havering collision
+2019-12-23T01:00Z,73,9,13391,barnet collision
+2019-12-24T01:00Z,54,7,140598,barnet collision
+2019-12-25T01:00Z,34,6,153710,barking and dagenham collision
+2019-12-26T01:00Z,23,4,437275,barking and dagenham collision
+2019-12-27T01:00Z,40,4,114370,bromley collision
+2019-12-28T01:00Z,47,5,16716,enfield collision
+2019-12-29T01:00Z,46,7,274854,ealing collision
+2019-12-30T01:00Z,44,4,128916,barnet collision
+2019-12-31T01:00Z,56,6,134500,lambeth collision
+2020-01-01T01:00Z,52,11,63200,enfield collision
+2020-01-02T01:00Z,42,7,20310,redbridge collision
+2020-01-03T01:00Z,45,2,3941,enfield collision
+2020-01-04T01:00Z,54,9,76514,barnet collision
+2020-01-05T01:00Z,38,1,6457,bexley collision
+2020-01-06T01:00Z,53,9,128995,hillingdon collision
+2020-01-07T01:00Z,73,11,32238,ealing collision
+2020-01-08T01:00Z,60,7,92745,redbridge collision
+2020-01-09T01:00Z,83,5,628645,enfield collision
+2020-01-10T01:00Z,65,9,20539,ealing collision
+2020-01-11T01:00Z,55,3,67054,brent collision
+2020-01-12T01:00Z,47,6,456144,camden collision
+2020-01-13T01:00Z,77,10,406010,haringey collision
+2020-01-14T01:00Z,96,11,242685,bexley collision
+2020-01-15T01:00Z,76,11,597552,hillingdon collision
+2020-01-16T01:00Z,61,11,694687,bexley collision
+2020-01-17T01:00Z,70,15,424146,enfield collision
+2020-01-18T01:00Z,69,8,479653,croydon collision
+2020-01-19T01:00Z,60,11,163347,lewisham collision
+2020-01-20T01:00Z,61,5,264421,hackney collision
+2020-01-21T01:00Z,75,9,99295,camden collision
+2020-01-22T01:00Z,85,3,32856,wandsworth collision
+2020-01-23T01:00Z,61,7,156570,camden collision
+2020-01-24T01:00Z,91,11,119959,newham collision
+2020-01-25T01:00Z,44,8,110263,wandsworth collision
+2020-01-26T01:00Z,49,6,185482,hackney collision
+2020-01-27T01:00Z,65,7,272066,barnet collision
+2020-01-28T01:00Z,79,7,340318,kingston upon thames collision
+2020-01-29T01:00Z,73,8,27386,barking and dagenham collision
+2020-01-30T01:00Z,55,8,198999,newham collision
+2020-01-31T01:00Z,91,11,133790,hounslow collision
+2020-02-01T01:00Z,83,9,106267,barking and dagenham collision
+2020-02-02T01:00Z,64,8,216742,ealing collision
+2020-02-03T01:00Z,72,6,198928,barking and dagenham collision
+2020-02-04T01:00Z,74,6,616153,lambeth collision
+2020-02-05T01:00Z,65,9,16708,lambeth collision
+2020-02-06T01:00Z,75,14,227962,hackney collision
+2020-02-07T01:00Z,67,11,110159,croydon collision
+2020-02-08T01:00Z,77,10,254956,ealing collision
+2020-02-09T01:00Z,50,3,279816,southwark collision
+2020-02-10T01:00Z,71,9,312411,croydon collision
+2020-02-11T01:00Z,61,9,134615,croydon collision
+2020-02-12T01:00Z,84,5,387377,croydon collision
+2020-02-13T01:00Z,66,12,178735,camden collision
+2020-02-14T01:00Z,83,8,217762,camden collision
+2020-02-15T01:00Z,72,8,616584,waltham forest collision
+2020-02-16T01:00Z,48,6,188028,tower hamlets collision
+2020-02-17T01:00Z,69,5,74059,lambeth collision
+2020-02-18T01:00Z,68,10,461644,croydon collision
+2020-02-19T01:00Z,51,4,456089,croydon collision
+2020-02-20T01:00Z,72,14,308747,havering collision
+2020-02-21T01:00Z,54,7,73168,ealing collision
+2020-02-22T01:00Z,47,7,713376,redbridge collision
+2020-02-23T01:00Z,61,5,2909,lambeth collision
+2020-02-24T01:00Z,45,6,235090,barking and dagenham collision
+2020-02-25T01:00Z,81,7,208331,tower hamlets collision
+2020-02-26T01:00Z,75,15,491777,barking and dagenham collision
+2020-02-27T01:00Z,65,8,596916,croydon collision
+2020-02-28T01:00Z,71,6,84596,tower hamlets collision
+2020-02-29T01:00Z,76,8,1071572,croydon collision
+2020-03-01T01:00Z,61,7,466693,hillingdon collision
+2020-03-02T01:00Z,56,7,94142,brent collision
+2020-03-03T01:00Z,66,6,686278,hammersmith and fulham collision
+2020-03-04T01:00Z,75,10,1129779,hillingdon collision
+2020-03-05T01:00Z,74,9,61442,tower hamlets collision
+2020-03-06T01:00Z,77,12,61580,barnet collision
+2020-03-07T01:00Z,53,9,49510,southwark collision
+2020-03-08T01:00Z,69,3,233180,enfield collision
+2020-03-09T01:00Z,72,11,314380,ealing collision
+2020-03-10T01:00Z,62,2,184388,wandsworth collision
+2020-03-11T01:00Z,54,11,403627,camden collision
+2020-03-12T01:00Z,54,7,47861,brent collision
+2020-03-13T01:00Z,50,5,986,southwark collision
+2020-03-14T01:00Z,62,11,572096,bexley collision
+2020-03-15T01:00Z,49,3,172970,havering collision
+2020-03-16T01:00Z,55,9,729636,bromley collision
+2020-03-17T01:00Z,46,9,1055800,barnet collision
+2020-03-18T01:00Z,54,10,115555,ealing collision
+2020-03-19T01:00Z,59,2,595737,lambeth collision
+2020-03-20T01:00Z,50,9,1030626,brent collision
+2020-03-21T01:00Z,30,6,207062,croydon collision
+2020-03-22T01:00Z,26,2,761903,barnet collision
+2020-03-23T01:00Z,47,4,37818,redbridge collision
+2020-03-24T01:00Z,15,1,332728,redbridge collision
+2020-03-25T01:00Z,26,6,138,haringey collision
+2020-03-26T01:00Z,13,7,510101,enfield collision
+2020-03-27T01:00Z,19,5,184481,camden collision
+2020-03-28T01:00Z,10,1,433103,barnet collision
+2020-03-29T01:00Z,10,2,59617,barnet collision
+2020-03-30T01:00Z,8,2,100019,haringey collision
+2020-03-31T01:00Z,17,4,110383,barking and dagenham collision
+2020-04-01T01:00Z,26,2,58836,havering collision
+2020-04-02T01:00Z,18,5,68872,barnet collision
+2020-04-03T01:00Z,18,2,165890,croydon collision
+2020-04-04T01:00Z,21,3,29216,haringey collision
+2020-04-05T01:00Z,23,5,660484,hounslow collision
+2020-04-06T01:00Z,27,3,282506,brent collision
+2020-04-07T01:00Z,30,5,255664,brent collision
+2020-04-08T01:00Z,17,2,180238,croydon collision
+2020-04-09T01:00Z,17,2,68397,tower hamlets collision
+2020-04-10T01:00Z,23,1,108690,haringey collision
+2020-04-11T01:00Z,23,4,195538,southwark collision
+2020-04-12T01:00Z,23,3,129410,newham collision
+2020-04-13T01:00Z,23,3,88390,croydon collision
+2020-04-14T01:00Z,33,7,105500,ealing collision
+2020-04-15T01:00Z,18,4,11412,hounslow collision
+2020-04-16T01:00Z,22,3,672741,ealing collision
+2020-04-17T01:00Z,20,5,165402,newham collision
+2020-04-18T01:00Z,16,1,170389,hammersmith and fulham collision
+2020-04-19T01:00Z,15,2,465984,barnet collision
+2020-04-20T01:00Z,22,6,63786,southwark collision
+2020-04-21T01:00Z,29,4,411344,barking and dagenham collision
+2020-04-22T01:00Z,31,5,603319,tower hamlets collision
+2020-04-23T01:00Z,28,5,781060,wandsworth collision
+2020-04-24T01:00Z,29,4,33523,newham collision
+2020-04-25T01:00Z,39,0,24995,barking and dagenham collision
+2020-04-26T01:00Z,28,5,311284,hackney collision
+2020-04-27T01:00Z,36,7,209216,hillingdon collision
+2020-04-28T01:00Z,21,3,147521,brent collision
+2020-04-29T01:00Z,21,3,198456,brent collision
+2020-04-30T01:00Z,28,4,199505,lambeth collision
+2020-05-01T01:00Z,37,5,828587,lewisham collision
+2020-05-02T01:00Z,34,7,229489,haringey collision
+2020-05-03T01:00Z,17,3,237403,merton collision
+2020-05-04T01:00Z,43,8,34154,camden collision
+2020-05-05T01:00Z,41,9,391988,barnet collision
+2020-05-06T01:00Z,44,6,353602,barking and dagenham collision
+2020-05-07T01:00Z,44,5,422714,lewisham collision
+2020-05-08T01:00Z,47,7,25609,lewisham collision
+2020-05-09T01:00Z,35,4,63334,haringey collision
+2020-05-10T01:00Z,24,9,326330,bexley collision
+2020-05-11T01:00Z,20,4,243069,lambeth collision
+2020-05-12T01:00Z,42,2,869364,hackney collision
+2020-05-13T01:00Z,30,5,164561,barking and dagenham collision
+2020-05-14T01:00Z,49,5,153015,enfield collision
+2020-05-15T01:00Z,41,5,62304,hounslow collision
+2020-05-16T01:00Z,39,2,196603,bromley collision
+2020-05-17T01:00Z,37,6,477641,hounslow collision
+2020-05-18T01:00Z,45,5,754998,croydon collision
+2020-05-19T01:00Z,53,7,70993,barnet collision
+2020-05-20T01:00Z,45,10,217194,barnet collision
+2020-05-21T01:00Z,49,9,278357,barking and dagenham collision
+2020-05-22T01:00Z,67,7,504811,wandsworth collision
+2020-05-23T01:00Z,48,8,381298,barking and dagenham collision
+2020-05-24T01:00Z,38,9,152297,havering collision
+2020-05-25T01:00Z,43,14,306551,barnet collision
+2020-05-26T01:00Z,44,7,414794,enfield collision
+2020-05-27T01:00Z,47,3,620041,bexley collision
+2020-05-28T01:00Z,64,6,253072,southwark collision
+2020-05-29T01:00Z,60,4,719829,bromley collision
+2020-05-30T01:00Z,51,4,1355369,hackney collision
+2020-05-31T01:00Z,55,13,387164,ealing collision
+2020-06-01T01:00Z,59,5,172288,bexley collision
+2020-06-02T01:00Z,49,13,1368242,havering collision
+2020-06-03T01:00Z,48,8,237404,wandsworth collision
+2020-06-04T01:00Z,44,8,252418,redbridge collision
+2020-06-05T01:00Z,79,5,364879,newham collision
+2020-06-06T01:00Z,40,3,962612,haringey collision
+2020-06-07T01:00Z,23,8,387597,lewisham collision
+2020-06-08T01:00Z,36,7,1058476,ealing collision
+2020-06-09T01:00Z,54,7,452822,hounslow collision
+2020-06-10T01:00Z,48,6,28789,ealing collision
+2020-06-11T01:00Z,48,9,106090,brent collision
+2020-06-12T01:00Z,55,6,720061,lambeth collision
+2020-06-13T01:00Z,60,5,246078,tower hamlets collision
+2020-06-14T01:00Z,43,7,399094,tower hamlets collision
+2020-06-15T01:00Z,45,11,196710,croydon collision
+2020-06-16T01:00Z,71,8,220637,croydon collision
+2020-06-17T01:00Z,45,6,239155,lambeth collision
+2020-06-18T01:00Z,62,4,38280,tower hamlets collision
+2020-06-19T01:00Z,77,9,184149,hackney collision
+2020-06-20T01:00Z,63,10,77063,lambeth collision
+2020-06-21T01:00Z,43,3,104034,tower hamlets collision
+2020-06-22T01:00Z,68,10,292521,southwark collision
+2020-06-23T01:00Z,66,9,76725,bexley collision
+2020-06-24T01:00Z,59,9,294835,hackney collision
+2020-06-25T01:00Z,79,12,885381,southwark collision
+2020-06-26T01:00Z,99,10,347575,hillingdon collision
+2020-06-27T01:00Z,51,5,122862,hillingdon collision
+2020-06-28T01:00Z,45,6,1329145,hackney collision
+2020-06-29T01:00Z,45,9,60146,lambeth collision
+2020-06-30T01:00Z,57,8,919812,barnet collision
+2020-07-01T01:00Z,48,13,52538,kensington an chelsea collision
+2020-07-02T01:00Z,68,5,91671,croydon collision
+2020-07-03T01:00Z,76,10,132639,bexley collision
+2020-07-04T01:00Z,55,2,102594,enfield collision
+2020-07-05T01:00Z,66,5,194820,redbridge collision
+2020-07-06T01:00Z,52,9,71478,newham collision
+2020-07-07T01:00Z,70,8,99925,wandsworth collision
+2020-07-08T01:00Z,82,6,98408,brent collision
+2020-07-09T01:00Z,45,5,42395,barnet collision
+2020-07-10T01:00Z,77,15,91199,ealing collision
+2020-07-11T01:00Z,56,10,321842,croydon collision
+2020-07-12T01:00Z,63,10,103628,waltham forest collision
+2020-07-13T01:00Z,60,12,485721,lambeth collision
+2020-07-14T01:00Z,62,7,283779,wandsworth collision
+2020-07-15T01:00Z,63,8,174110,lambeth collision
+2020-07-16T01:00Z,58,9,35829,haringey collision
+2020-07-17T01:00Z,105,9,467626,newham collision
+2020-07-18T01:00Z,73,5,330954,tower hamlets collision
+2020-07-19T01:00Z,52,4,558303,croydon collision
+2020-07-20T01:00Z,57,9,26294,wandsworth collision
+2020-07-21T01:00Z,74,14,72383,hammersmith and fulham collision
+2020-07-22T01:00Z,79,8,4324,croydon collision
+2020-07-23T01:00Z,73,11,13945,haringey collision
+2020-07-24T01:00Z,75,11,962759,barking and dagenham collision
+2020-07-25T01:00Z,67,9,74623,bexley collision
+2020-07-26T01:00Z,52,9,234798,brent collision
+2020-07-27T01:00Z,58,8,119791,hillingdon collision
+2020-07-28T01:00Z,48,10,269390,greenwich collision
+2020-07-29T01:00Z,56,15,257647,tower hamlets collision
+2020-07-30T01:00Z,90,14,156886,tower hamlets collision
+2020-07-31T01:00Z,82,10,193328,enfield collision
+2020-08-01T01:00Z,70,6,96508,hounslow collision
+2020-08-02T01:00Z,48,10,235997,ealing collision
+2020-08-03T01:00Z,55,13,183789,ealing collision
+2020-08-04T01:00Z,65,11,22671,enfield collision
+2020-08-05T01:00Z,88,10,70366,lambeth collision
+2020-08-06T01:00Z,62,8,148540,ealing collision
+2020-08-07T01:00Z,68,7,136310,barnet collision
+2020-08-08T01:00Z,68,10,377004,lewisham collision
+2020-08-09T01:00Z,54,8,373597,hillingdon collision
+2020-08-10T01:00Z,66,15,204257,barking and dagenham collision
+2020-08-11T01:00Z,56,10,374242,brent collision
+2020-08-12T01:00Z,83,10,312658,ealing collision
+2020-08-13T01:00Z,90,7,326987,ealing collision
+2020-08-14T01:00Z,53,8,72616,lambeth collision
+2020-08-15T01:00Z,59,7,696381,lambeth collision
+2020-08-16T01:00Z,74,6,150569,lambeth collision
+2020-08-17T01:00Z,64,7,375671,havering collision
+2020-08-18T01:00Z,58,13,492802,barking and dagenham collision
+2020-08-19T01:00Z,81,9,359764,croydon collision
+2020-08-20T01:00Z,76,17,220652,barnet collision
+2020-08-21T01:00Z,68,14,728127,croydon collision
+2020-08-22T01:00Z,77,9,150249,enfield collision
+2020-08-23T01:00Z,53,4,672645,wandsworth collision
+2020-08-24T01:00Z,85,6,291995,haringey collision
+2020-08-25T01:00Z,63,7,218207,barnet collision
+2020-08-26T01:00Z,56,12,517246,barnet collision
+2020-08-27T01:00Z,74,8,379063,bromley collision
+2020-08-28T01:00Z,84,4,272916,croydon collision
+2020-08-29T01:00Z,63,7,288781,newham collision
+2020-08-30T01:00Z,60,9,320551,brent collision
+2020-08-31T01:00Z,58,7,715298,barnet collision
+2020-09-01T01:00Z,76,7,124165,lambeth collision
+2020-09-02T01:00Z,76,13,481356,tower hamlets collision
+2020-09-03T01:00Z,66,12,136078,barking and dagenham collision
+2020-09-04T01:00Z,94,14,314184,lewisham collision
+2020-09-05T01:00Z,67,7,255638,enfield collision
+2020-09-06T01:00Z,62,10,311207,enfield collision
+2020-09-07T01:00Z,54,8,330980,barnet collision
+2020-09-08T01:00Z,60,9,311010,wandsworth collision
+2020-09-09T01:00Z,61,13,177224,wandsworth collision
+2020-09-10T01:00Z,69,11,516007,lewisham collision
+2020-09-11T01:00Z,71,14,227489,hackney collision
+2020-09-12T01:00Z,85,11,246996,newham collision
+2020-09-13T01:00Z,57,9,185015,haringey collision
+2020-09-14T01:00Z,73,19,247908,enfield collision
+2020-09-15T01:00Z,110,2,382684,wandsworth collision
+2020-09-16T01:00Z,74,12,215328,croydon collision
+2020-09-17T01:00Z,96,14,627320,lewisham collision
+2020-09-18T01:00Z,95,15,522375,barking and dagenham collision
+2020-09-19T01:00Z,84,10,334668,brent collision
+2020-09-20T01:00Z,76,11,761522,barnet collision
+2020-09-21T01:00Z,72,10,281282,wandsworth collision
+2020-09-22T01:00Z,90,9,222639,wandsworth collision
+2020-09-23T01:00Z,67,8,179491,ealing collision
+2020-09-24T01:00Z,77,16,457591,ealing collision
+2020-09-25T01:00Z,97,13,134922,newham collision
+2020-09-26T01:00Z,65,10,209724,brent collision
+2020-09-27T01:00Z,38,7,273737,camden collision
+2020-09-28T01:00Z,60,16,251739,barking and dagenham collision
+2020-09-29T01:00Z,65,14,157575,redbridge collision
+2020-09-30T01:00Z,112,14,296771,enfield collision
+2020-10-01T01:00Z,74,15,274795,hammersmith and fulham collision
+2020-10-02T01:00Z,115,13,207348,hackney collision
+2020-10-03T01:00Z,68,9,560947,barking and dagenham collision
+2020-10-04T01:00Z,62,7,407308,hammersmith and fulham collision
+2020-10-05T01:00Z,63,9,137500,croydon collision
+2020-10-06T01:00Z,69,8,85618,hounslow collision
+2020-10-07T01:00Z,61,14,234416,hackney collision
+2020-10-08T01:00Z,71,14,387647,enfield collision
+2020-10-09T01:00Z,110,8,155942,barking and dagenham collision
+2020-10-10T01:00Z,59,10,164500,sutton collision
+2020-10-11T01:00Z,56,8,141312,haringey collision
+2020-10-12T01:00Z,69,9,668462,ealing collision
+2020-10-13T01:00Z,61,8,140972,southwark collision
+2020-10-14T01:00Z,52,14,106943,lambeth collision
+2020-10-15T01:00Z,77,15,79396,barnet collision
+2020-10-16T01:00Z,90,13,353997,enfield collision
+2020-10-17T01:00Z,65,9,116799,newham collision
+2020-10-18T01:00Z,47,6,328643,barking and dagenham collision
+2020-10-19T01:00Z,64,6,46268,redbridge collision
+2020-10-20T01:00Z,66,13,236656,haringey collision
+2020-10-21T01:00Z,77,13,251723,brent collision
+2020-10-22T01:00Z,68,10,148568,bromley collision
+2020-10-23T01:00Z,75,12,318963,enfield collision
+2020-10-24T01:00Z,76,5,322135,lambeth collision
+2020-10-25T01:00Z,58,9,215665,hillingdon collision
+2020-10-26T01:00Z,63,12,130818,lambeth collision
+2020-10-27T01:00Z,52,10,44163,hackney collision
+2020-10-28T01:00Z,71,8,209806,southwark collision
+2020-10-29T01:00Z,50,16,199945,brent collision
+2020-10-30T01:00Z,52,8,45983,brent collision
+2020-10-31T01:00Z,86,11,110536,waltham forest collision
+2020-11-01T01:00Z,58,4,455947,barnet collision
+2020-11-02T01:00Z,50,12,56641,brent collision
+2020-11-03T01:00Z,75,7,451363,barnet collision
+2020-11-04T01:00Z,97,16,109600,enfield collision
+2020-11-05T01:00Z,59,7,668497,croydon collision
+2020-11-06T01:00Z,60,11,107350,newham collision
+2020-11-07T01:00Z,50,7,291068,lambeth collision
+2020-11-08T01:00Z,32,3,106260,brent collision
+2020-11-09T01:00Z,60,14,281280,hackney collision
+2020-11-10T01:00Z,70,14,178256,hounslow collision
+2020-11-11T01:00Z,59,8,305709,barnet collision
+2020-11-12T01:00Z,45,13,314847,brent collision
+2020-11-13T01:00Z,65,10,365498,croydon collision
+2020-11-14T01:00Z,47,5,75483,hounslow collision
+2020-11-15T01:00Z,39,4,204727,barnet collision
+2020-11-16T01:00Z,77,8,164547,enfield collision
+2020-11-17T01:00Z,64,9,358491,tower hamlets collision
+2020-11-18T01:00Z,75,15,76806,croydon collision
+2020-11-19T01:00Z,57,8,119145,lambeth collision
+2020-11-20T01:00Z,78,8,662552,ealing collision
+2020-11-21T01:00Z,47,11,1038206,ealing collision
+2020-11-22T01:00Z,37,7,102592,greenwich collision
+2020-11-23T01:00Z,61,5,146868,redbridge collision
+2020-11-24T01:00Z,59,15,59928,lewisham collision
+2020-11-25T01:00Z,50,12,50435,croydon collision
+2020-11-26T01:00Z,52,10,248459,brent collision
+2020-11-27T01:00Z,54,9,62704,enfield collision
+2020-11-28T01:00Z,47,4,218641,barking and dagenham collision
+2020-11-29T01:00Z,33,4,457238,newham collision
+2020-11-30T01:00Z,67,9,149353,lambeth collision
+2020-12-01T01:00Z,62,12,84921,wandsworth collision
+2020-12-02T01:00Z,95,10,481548,ealing collision
+2020-12-03T01:00Z,110,10,643693,enfield collision
+2020-12-04T01:00Z,104,12,186697,croydon collision
+2020-12-05T01:00Z,91,9,659707,barnet collision
+2020-12-06T01:00Z,62,13,321210,greenwich collision
+2020-12-07T01:00Z,71,9,194252,wandsworth collision
+2020-12-08T01:00Z,57,15,278266,haringey collision
+2020-12-09T01:00Z,84,9,174138,barking and dagenham collision
+2020-12-10T01:00Z,68,22,205276,hammersmith and fulham collision
+2020-12-11T01:00Z,93,13,94543,havering collision
+2020-12-12T01:00Z,59,11,134416,enfield collision
+2020-12-13T01:00Z,42,4,672677,redbridge collision
+2020-12-14T01:00Z,68,8,135640,ealing collision
+2020-12-15T01:00Z,79,10,91030,barnet collision
+2020-12-16T01:00Z,90,10,407612,kingston upon thames collision
+2020-12-17T01:00Z,59,5,188256,hounslow collision
+2020-12-18T01:00Z,83,8,231106,croydon collision
+2020-12-19T01:00Z,67,9,128538,lambeth collision
+2020-12-20T01:00Z,32,5,101907,brent collision
+2020-12-21T01:00Z,61,9,201676,enfield collision
+2020-12-22T01:00Z,42,8,57125,croydon collision
+2020-12-23T01:00Z,55,6,331739,enfield collision
+2020-12-24T01:00Z,51,6,264393,hackney collision
+2020-12-25T01:00Z,22,3,212913,southwark collision
+2020-12-26T01:00Z,36,5,941069,hillingdon collision
+2020-12-27T01:00Z,38,5,513827,lewisham collision
+2020-12-28T01:00Z,29,8,537909,hillingdon collision
+2020-12-29T01:00Z,24,5,365603,croydon collision
+2020-12-30T01:00Z,42,3,135291,hounslow collision
+2020-12-31T01:00Z,56,8,525706,kensington an chelsea collision
+2021-01-01T01:00Z,27,6,202197,lambeth collision
+2021-01-02T01:00Z,42,4,403978,barnet collision
+2021-01-03T01:00Z,27,7,479227,southwark collision
+2021-01-04T01:00Z,23,9,98598,hammersmith and fulham collision
+2021-01-05T01:00Z,37,7,39092,hackney collision
+2021-01-06T01:00Z,46,4,348438,brent collision
+2021-01-07T01:00Z,43,8,50685,croydon collision
+2021-01-08T01:00Z,49,12,181127,brent collision
+2021-01-09T01:00Z,61,10,64411,havering collision
+2021-01-10T01:00Z,30,3,366836,ealing collision
+2021-01-11T01:00Z,31,2,108187,southwark collision
+2021-01-12T01:00Z,28,3,195553,tower hamlets collision
+2021-01-13T01:00Z,34,2,325050,newham collision
+2021-01-14T01:00Z,57,7,270694,enfield collision
+2021-01-15T01:00Z,41,3,132331,ealing collision
+2021-01-16T01:00Z,32,3,295984,croydon collision
+2021-01-17T01:00Z,31,5,60330,haringey collision
+2021-01-18T01:00Z,26,5,434369,enfield collision
+2021-01-19T01:00Z,25,3,620068,newham collision
+2021-01-20T01:00Z,44,8,220900,redbridge collision
+2021-01-21T01:00Z,43,7,609050,brent collision
+2021-01-22T01:00Z,68,11,1377433,redbridge collision
+2021-01-23T01:00Z,52,6,172350,barnet collision
+2021-01-24T01:00Z,24,2,92718,lewisham collision
+2021-01-25T01:00Z,39,4,43447,newham collision
+2021-01-26T01:00Z,45,8,102417,lambeth collision
+2021-01-27T01:00Z,43,7,95790,lambeth collision
+2021-01-28T01:00Z,41,5,62623,croydon collision
+2021-01-29T01:00Z,41,5,240710,brent collision
+2021-01-30T01:00Z,48,6,98113,ealing collision
+2021-01-31T01:00Z,39,5,274495,croydon collision
+2021-02-01T01:00Z,45,7,96865,havering collision
+2021-02-02T01:00Z,44,4,235872,lewisham collision
+2021-02-03T01:00Z,30,4,86647,brent collision
+2021-02-04T01:00Z,48,6,64821,lambeth collision
+2021-02-05T01:00Z,64,8,258682,hackney collision
+2021-02-06T01:00Z,46,7,90809,enfield collision
+2021-02-07T01:00Z,31,4,159429,waltham forest collision
+2021-02-08T01:00Z,29,2,150984,lambeth collision
+2021-02-09T01:00Z,23,3,526648,brent collision
+2021-02-10T01:00Z,41,7,186907,greenwich collision
+2021-02-11T01:00Z,38,6,28071,waltham forest collision
+2021-02-12T01:00Z,43,2,7754,kingston upon thames collision
+2021-02-13T01:00Z,50,3,24900,bexley collision
+2021-02-14T01:00Z,31,3,16140,tower hamlets collision
+2021-02-15T01:00Z,56,2,138833,ealing collision
+2021-02-16T01:00Z,33,2,81854,hillingdon collision
+2021-02-17T01:00Z,51,4,146543,lambeth collision
+2021-02-18T01:00Z,40,4,41482,barnet collision
+2021-02-19T01:00Z,55,3,217636,enfield collision
+2021-02-20T01:00Z,44,6,50372,newham collision
+2021-02-21T01:00Z,37,6,99980,brent collision
+2021-02-22T01:00Z,41,5,105936,tower hamlets collision
+2021-02-23T01:00Z,49,16,72180,enfield collision
+2021-02-24T01:00Z,40,8,1119,islington collision
+2021-02-25T01:00Z,36,5,64467,ealing collision
+2021-02-26T01:00Z,75,12,43242,wandsworth collision
+2021-02-27T01:00Z,48,14,67546,enfield collision
+2021-02-28T01:00Z,32,4,84858,bexley collision
+2021-03-01T01:00Z,32,6,186891,hackney collision
+2021-03-02T01:00Z,38,5,288591,southwark collision
+2021-03-03T01:00Z,41,5,3586,enfield collision
+2021-03-04T01:00Z,42,0,6976,southwark collision
+2021-03-05T01:00Z,54,11,32033,wandsworth collision
+2021-03-06T01:00Z,54,7,48251,croydon collision
+2021-03-07T01:00Z,33,12,200839,havering collision
+2021-03-08T01:00Z,50,12,43978,lambeth collision
+2021-03-09T01:00Z,63,8,24134,southwark collision
+2021-03-10T01:00Z,84,9,176722,havering collision
+2021-03-11T01:00Z,46,8,32150,bromley collision
+2021-03-12T01:00Z,72,12,215551,croydon collision
+2021-03-13T01:00Z,58,3,100125,tower hamlets collision
+2021-03-14T01:00Z,39,9,58049,haringey collision
+2021-03-15T01:00Z,58,8,52334,wandsworth collision
+2021-03-16T01:00Z,29,5,228550,lambeth collision
+2021-03-17T01:00Z,52,8,196523,enfield collision
+2021-03-18T01:00Z,58,8,450784,tower hamlets collision
+2021-03-19T01:00Z,72,14,148222,ealing collision
+2021-03-20T01:00Z,31,5,285547,merton collision
+2021-03-21T01:00Z,52,4,1052247,merton collision
+2021-03-22T01:00Z,51,8,141911,brent collision
+2021-03-23T01:00Z,57,8,28058,lambeth collision
+2021-03-24T01:00Z,47,9,337907,newham collision
+2021-03-25T01:00Z,59,8,423714,ealing collision
+2021-03-26T01:00Z,59,8,542714,enfield collision
+2021-03-27T01:00Z,40,8,617462,lewisham collision
+2021-03-28T01:00Z,38,7,65448,lambeth collision
+2021-03-29T01:00Z,48,15,91723,lambeth collision
+2021-03-30T01:00Z,89,11,465878,tower hamlets collision
+2021-03-31T01:00Z,60,10,3522,croydon collision
+2021-04-01T01:00Z,91,7,85031,ealing collision
+2021-04-02T01:00Z,46,7,43685,lambeth collision
+2021-04-03T01:00Z,47,8,149700,wandsworth collision
+2021-04-04T01:00Z,51,20,24036,enfield collision
+2021-04-05T01:00Z,45,6,129084,lewisham collision
+2021-04-06T01:00Z,59,4,57592,brent collision
+2021-04-07T01:00Z,47,13,102746,brent collision
+2021-04-08T01:00Z,57,6,213568,tower hamlets collision
+2021-04-09T01:00Z,72,8,351931,brent collision
+2021-04-10T01:00Z,54,7,33297,brent collision
+2021-04-11T01:00Z,37,8,290887,redbridge collision
+2021-04-12T01:00Z,49,11,289934,haringey collision
+2021-04-13T01:00Z,57,9,40097,kensington an chelsea collision
+2021-04-14T01:00Z,59,6,203836,bromley collision
+2021-04-15T01:00Z,79,9,112561,lambeth collision
+2021-04-16T01:00Z,83,18,108408,hackney collision
+2021-04-17T01:00Z,59,13,329258,tower hamlets collision
+2021-04-18T01:00Z,52,8,436870,havering collision
+2021-04-19T01:00Z,57,10,291758,redbridge collision
+2021-04-20T01:00Z,70,14,57424,southwark collision
+2021-04-21T01:00Z,78,13,69637,wandsworth collision
+2021-04-22T01:00Z,76,9,402731,brent collision
+2021-04-23T01:00Z,92,9,93316,lambeth collision
+2021-04-24T01:00Z,80,10,4808,waltham forest collision
+2021-04-25T01:00Z,55,7,34202,bromley collision
+2021-04-26T01:00Z,80,13,140109,camden collision
+2021-04-27T01:00Z,59,16,35096,barnet collision
+2021-04-28T01:00Z,66,10,3809,wandsworth collision
+2021-04-29T01:00Z,82,13,146637,wandsworth collision
+2021-04-30T01:00Z,117,12,5964,newham collision
+2021-05-01T01:00Z,66,11,11595,newham collision
+2021-05-02T01:00Z,72,7,747372,ealing collision
+2021-05-03T01:00Z,60,9,64496,tower hamlets collision
+2021-05-04T01:00Z,71,6,157058,newham collision
+2021-05-05T01:00Z,82,11,192148,redbridge collision
+2021-05-06T01:00Z,73,11,34516,hillingdon collision
+2021-05-07T01:00Z,85,8,108683,lambeth collision
+2021-05-08T01:00Z,42,4,93497,lambeth collision
+2021-05-09T01:00Z,37,9,25550,tower hamlets collision
+2021-05-10T01:00Z,68,10,10714,brent collision
+2021-05-11T01:00Z,77,8,29956,brent collision
+2021-05-12T01:00Z,69,9,11407,southwark collision
+2021-05-13T01:00Z,95,12,148860,enfield collision
+2021-05-14T01:00Z,68,13,61635,wandsworth collision
+2021-05-15T01:00Z,56,9,25602,wandsworth collision
+2021-05-16T01:00Z,58,8,618205,barnet collision
+2021-05-17T01:00Z,73,13,1078446,barking and dagenham collision
+2021-05-18T01:00Z,67,8,624748,southwark collision
+2021-05-19T01:00Z,71,11,1339374,ealing collision
+2021-05-20T01:00Z,87,8,582391,lambeth collision
+2021-05-21T01:00Z,101,15,678559,haringey collision
+2021-05-22T01:00Z,90,5,472526,bexley collision
+2021-05-23T01:00Z,44,8,1429869,wandsworth collision
+2021-05-24T01:00Z,68,10,2650624,lambeth collision
+2021-05-25T01:00Z,62,9,115615,hackney collision
+2021-05-26T01:00Z,61,9,146621,brent collision
+2021-05-27T01:00Z,72,10,404551,havering collision
+2021-05-28T01:00Z,108,12,378604,newham collision
+2021-05-29T01:00Z,78,15,47518,brent collision
+2021-05-30T01:00Z,62,7,142001,brent collision
+2021-05-31T01:00Z,78,14,166264,sutton collision
+2021-06-01T01:00Z,81,19,506228,lambeth collision
+2021-06-02T01:00Z,91,10,689,enfield collision
+2021-06-03T01:00Z,85,10,93467,southwark collision
+2021-06-04T01:00Z,90,14,4051,enfield collision
+2021-06-05T01:00Z,65,10,43707,croydon collision
+2021-06-06T01:00Z,45,12,355200,lambeth collision
+2021-06-07T01:00Z,50,10,375525,croydon collision
+2021-06-08T01:00Z,83,16,125897,newham collision
+2021-06-09T01:00Z,82,23,143560,croydon collision
+2021-06-10T01:00Z,74,15,339501,lambeth collision
+2021-06-11T01:00Z,98,10,338319,ealing collision
+2021-06-12T01:00Z,80,20,325585,wandsworth collision
+2021-06-13T01:00Z,82,9,29044,havering collision
+2021-06-14T01:00Z,84,14,96695,southwark collision
+2021-06-15T01:00Z,81,12,148002,wandsworth collision
+2021-06-16T01:00Z,79,13,341958,lambeth collision
+2021-06-17T01:00Z,88,10,179008,tower hamlets collision
+2021-06-18T01:00Z,74,10,455207,camden collision
+2021-06-19T01:00Z,47,4,777296,brent collision
+2021-06-20T01:00Z,57,8,222908,haringey collision
+2021-06-21T01:00Z,53,9,227335,brent collision
+2021-06-22T01:00Z,85,10,21634,enfield collision
+2021-06-23T01:00Z,71,11,217247,hackney collision
+2021-06-24T01:00Z,85,11,138680,hackney collision
+2021-06-25T01:00Z,87,13,457582,wandsworth collision
+2021-06-26T01:00Z,76,18,437660,lambeth collision
+2021-06-27T01:00Z,62,12,581816,ealing collision
+2021-06-28T01:00Z,62,10,304660,southwark collision
+2021-06-29T01:00Z,61,12,263793,brent collision
+2021-06-30T01:00Z,59,10,910609,lambeth collision
+2021-07-01T01:00Z,79,11,150891,southwark collision
+2021-07-02T01:00Z,99,14,783509,croydon collision
+2021-07-03T01:00Z,72,9,412628,newham collision
+2021-07-04T01:00Z,60,8,228130,hackney collision
+2021-07-05T01:00Z,80,12,191316,croydon collision
+2021-07-06T01:00Z,80,10,18535,ealing collision
+2021-07-07T01:00Z,73,9,49232,kensington an chelsea collision
+2021-07-08T01:00Z,59,7,573003,brent collision
+2021-07-09T01:00Z,75,12,182107,croydon collision
+2021-07-10T01:00Z,70,13,239281,brent collision
+2021-07-11T01:00Z,62,6,792215,brent collision
+2021-07-12T01:00Z,79,12,27130,hackney collision
+2021-07-13T01:00Z,96,15,530875,bromley collision
+2021-07-14T01:00Z,58,14,172685,enfield collision
+2021-07-15T01:00Z,64,15,273020,brent collision
+2021-07-16T01:00Z,100,22,587196,hillingdon collision
+2021-07-17T01:00Z,63,16,115921,enfield collision
+2021-07-18T01:00Z,69,12,349270,wandsworth collision
+2021-07-19T01:00Z,62,5,427217,greenwich collision
+2021-07-20T01:00Z,71,10,453773,ealing collision
+2021-07-21T01:00Z,58,11,403292,tower hamlets collision
+2021-07-22T01:00Z,80,16,22791,lambeth collision
+2021-07-23T01:00Z,86,6,183024,barnet collision
+2021-07-24T01:00Z,62,9,6879,haringey collision
+2021-07-25T01:00Z,47,7,268213,haringey collision
+2021-07-26T01:00Z,49,8,329913,enfield collision
+2021-07-27T01:00Z,65,10,321241,ealing collision
+2021-07-28T01:00Z,58,8,227325,camden collision
+2021-07-29T01:00Z,74,14,284759,hillingdon collision
+2021-07-30T01:00Z,61,9,54900,ealing collision
+2021-07-31T01:00Z,67,13,342100,newham collision
+2021-08-01T01:00Z,52,8,75608,ealing collision
+2021-08-02T01:00Z,63,3,78304,tower hamlets collision
+2021-08-03T01:00Z,73,14,286182,ealing collision
+2021-08-04T01:00Z,77,8,261368,barnet collision
+2021-08-05T01:00Z,77,14,717027,redbridge collision
+2021-08-06T01:00Z,48,11,8775,tower hamlets collision
+2021-08-07T01:00Z,63,8,44599,greenwich collision
+2021-08-08T01:00Z,49,7,13391,lambeth collision
+2021-08-09T01:00Z,53,10,140598,tower hamlets collision
+2021-08-10T01:00Z,68,8,153710,bromley collision
+2021-08-11T01:00Z,52,13,437275,barnet collision
+2021-08-12T01:00Z,63,11,114370,redbridge collision
+2021-08-13T01:00Z,65,10,16716,hillingdon collision
+2021-08-14T01:00Z,73,13,274854,kensington an chelsea collision
+2021-08-15T01:00Z,50,12,128916,hounslow collision
+2021-08-16T01:00Z,76,10,134500,tower hamlets collision
+2021-08-17T01:00Z,59,6,63200,southwark collision
+2021-08-18T01:00Z,58,14,20310,greenwich collision
+2021-08-19T01:00Z,54,10,3941,tower hamlets collision
+2021-08-20T01:00Z,67,8,76514,ealing collision
+2021-08-21T01:00Z,96,13,6457,hounslow collision
+2021-08-22T01:00Z,58,3,128995,tower hamlets collision
+2021-08-23T01:00Z,66,9,32238,hackney collision
+2021-08-24T01:00Z,41,11,92745,wandsworth collision
+2021-08-25T01:00Z,62,7,628645,wandsworth collision
+2021-08-26T01:00Z,58,8,20539,redbridge collision
+2021-08-27T01:00Z,59,8,67054,barnet collision
+2021-08-28T01:00Z,76,8,456144,enfield collision
+2021-08-29T01:00Z,51,7,406010,lambeth collision
+2021-08-30T01:00Z,59,6,242685,bromley collision
+2021-08-31T01:00Z,56,12,597552,brent collision
+2021-09-01T01:00Z,54,16,694687,tower hamlets collision
+2021-09-02T01:00Z,73,19,424146,newham collision
+2021-09-03T01:00Z,79,9,479653,newham collision
+2021-09-04T01:00Z,54,7,163347,lambeth collision
+2021-09-05T01:00Z,82,8,264421,hounslow collision
+2021-09-06T01:00Z,65,14,99295,camden collision
+2021-09-07T01:00Z,65,20,32856,newham collision
+2021-09-08T01:00Z,91,15,156570,lambeth collision
+2021-09-09T01:00Z,84,7,119959,camden collision
+2021-09-10T01:00Z,94,12,110263,newham collision
+2021-09-11T01:00Z,86,11,185482,enfield collision
+2021-09-12T01:00Z,53,8,272066,redbridge collision
+2021-09-13T01:00Z,63,11,340318,tower hamlets collision
+2021-09-14T01:00Z,77,9,27386,tower hamlets collision
+2021-09-15T01:00Z,76,7,198999,haringey collision
+2021-09-16T01:00Z,90,11,133790,enfield collision
+2021-09-17T01:00Z,97,22,106267,lambeth collision
+2021-09-18T01:00Z,72,10,216742,hammersmith and fulham collision
+2021-09-19T01:00Z,47,6,198928,croydon collision
+2021-09-20T01:00Z,76,9,616153,islington collision
+2021-09-21T01:00Z,77,7,16708,hillingdon collision
+2021-09-22T01:00Z,82,12,227962,sutton collision
+2021-09-23T01:00Z,96,12,110159,camden collision
+2021-09-24T01:00Z,119,11,254956,wandsworth collision
+2021-09-25T01:00Z,95,18,279816,tower hamlets collision
+2021-09-26T01:00Z,56,6,312411,brent collision
+2021-09-27T01:00Z,77,8,134615,bexley collision
+2021-09-28T01:00Z,77,6,387377,newham collision
+2021-09-29T01:00Z,81,13,178735,croydon collision
+2021-09-30T01:00Z,73,7,217762,lambeth collision
+2021-10-01T01:00Z,96,11,616584,barnet collision
+2021-10-02T01:00Z,71,13,188028,barnet collision
+2021-10-03T01:00Z,80,7,74059,haringey collision
+2021-10-04T01:00Z,66,15,461644,newham collision
+2021-10-05T01:00Z,61,8,456089,lewisham collision
+2021-10-06T01:00Z,65,12,308747,enfield collision
+2021-10-07T01:00Z,67,15,73168,barnet collision
+2021-10-08T01:00Z,79,15,713376,croydon collision
+2021-10-09T01:00Z,78,3,2909,barking and dagenham collision
+2021-10-10T01:00Z,64,13,235090,redbridge collision
+2021-10-11T01:00Z,58,8,208331,barnet collision
+2021-10-12T01:00Z,65,7,491777,brent collision
+2021-10-13T01:00Z,74,13,596916,hackney collision
+2021-10-14T01:00Z,57,11,84596,waltham forest collision
+2021-10-15T01:00Z,87,10,1071572,enfield collision
+2021-10-16T01:00Z,63,11,466693,croydon collision
+2021-10-17T01:00Z,66,9,94142,wandsworth collision
+2021-10-18T01:00Z,79,15,686278,brent collision
+2021-10-19T01:00Z,74,8,1129779,haringey collision
+2021-10-20T01:00Z,79,11,61442,redbridge collision
+2021-10-21T01:00Z,72,7,61580,lambeth collision
+2021-10-22T01:00Z,81,12,49510,lambeth collision
+2021-10-23T01:00Z,89,4,233180,wandsworth collision
+2021-10-24T01:00Z,53,10,314380,southwark collision
+2021-10-25T01:00Z,52,11,184388,hammersmith and fulham collision
+2021-10-26T01:00Z,52,9,403627,enfield collision
+2021-10-27T01:00Z,78,7,47861,hillingdon collision
+2021-10-28T01:00Z,63,12,986,ealing collision
+2021-10-29T01:00Z,85,17,572096,haringey collision
+2021-10-30T01:00Z,74,11,172970,tower hamlets collision
+2021-10-31T01:00Z,80,14,729636,islington collision
+2021-11-01T01:00Z,75,10,1055800,lambeth collision
+2021-11-02T01:00Z,83,17,115555,barking and dagenham collision
+2021-11-03T01:00Z,91,14,595737,croydon collision
+2021-11-04T01:00Z,80,13,1030626,lambeth collision
+2021-11-05T01:00Z,105,14,207062,barking and dagenham collision
+2021-11-06T01:00Z,72,15,761903,enfield collision
+2021-11-07T01:00Z,66,14,37818,croydon collision
+2021-11-08T01:00Z,66,13,332728,hackney collision
+2021-11-09T01:00Z,70,12,138,croydon collision
+2021-11-10T01:00Z,89,13,510101,lambeth collision
+2021-11-11T01:00Z,81,18,184481,southwark collision
+2021-11-12T01:00Z,93,9,433103,lambeth collision
+2021-11-13T01:00Z,63,12,59617,enfield collision
+2021-11-14T01:00Z,62,7,100019,redbridge collision
+2021-11-15T01:00Z,60,9,110383,brent collision
+2021-11-16T01:00Z,84,12,58836,merton collision
+2021-11-17T01:00Z,56,11,68872,enfield collision
+2021-11-18T01:00Z,78,9,165890,waltham forest collision
+2021-11-19T01:00Z,82,17,29216,enfield collision
+2021-11-20T01:00Z,49,12,660484,haringey collision
+2021-11-21T01:00Z,70,17,282506,wandsworth collision
+2021-11-22T01:00Z,80,6,255664,newham collision
+2021-11-23T01:00Z,79,12,180238,greenwich collision
+2021-11-24T01:00Z,64,14,68397,brent collision
+2021-11-25T01:00Z,82,9,108690,barnet collision
+2021-11-26T01:00Z,77,25,195538,ealing collision
+2021-11-27T01:00Z,91,19,129410,hillingdon collision
+2021-11-28T01:00Z,66,4,88390,barking and dagenham collision
+2021-11-29T01:00Z,59,12,105500,croydon collision
+2021-11-30T01:00Z,86,13,11412,lambeth collision
+2021-12-01T01:00Z,79,3,672741,ealing collision
+2021-12-02T01:00Z,90,7,165402,southwark collision
+2021-12-03T01:00Z,96,18,170389,barnet collision
+2021-12-04T01:00Z,79,12,465984,brent collision
+2021-12-05T01:00Z,51,6,63786,ealing collision
+2021-12-06T01:00Z,76,10,411344,barnet collision
+2021-12-07T01:00Z,71,7,603319,brent collision
+2021-12-08T01:00Z,64,12,781060,croydon collision
+2021-12-09T01:00Z,80,15,33523,islington collision
+2021-12-10T01:00Z,56,6,24995,lambeth collision
+2021-12-11T01:00Z,68,12,311284,southwark collision
+2021-12-12T01:00Z,56,11,209216,lambeth collision
+2021-12-13T01:00Z,54,9,147521,bexley collision
+2021-12-14T01:00Z,51,9,198456,newham collision
+2021-12-15T01:00Z,61,13,199505,ealing collision
+2021-12-16T01:00Z,58,6,828587,croydon collision
+2021-12-17T01:00Z,70,6,229489,redbridge collision
+2021-12-18T01:00Z,50,12,237403,croydon collision
+2021-12-19T01:00Z,49,2,34154,tower hamlets collision
+2021-12-20T01:00Z,46,9,391988,southwark collision
+2021-12-21T01:00Z,37,4,353602,hounslow collision
+2021-12-22T01:00Z,64,6,422714,croydon collision
+2021-12-23T01:00Z,39,8,25609,newham collision
+2021-12-24T01:00Z,76,12,63334,newham collision
+2021-12-25T01:00Z,32,12,326330,havering collision
+2021-12-26T01:00Z,38,7,243069,lambeth collision
+2021-12-27T01:00Z,36,9,869364,newham collision
+2021-12-28T01:00Z,31,3,164561,enfield collision
+2021-12-29T01:00Z,43,8,153015,ealing collision
+2021-12-30T01:00Z,34,3,62304,lambeth collision
+2021-12-31T01:00Z,36,8,196603,southwark collision
+2022-01-01T01:00Z,46,11,477641,redbridge collision
+2022-01-02T01:00Z,54,5,754998,tower hamlets collision
+2022-01-03T01:00Z,38,5,70993,croydon collision
+2022-01-04T01:00Z,46,5,217194,barking and dagenham collision
+2022-01-05T01:00Z,69,10,278357,haringey collision
+2022-01-06T01:00Z,51,5,504811,haringey collision
+2022-01-07T01:00Z,63,7,381298,newham collision
+2022-01-08T01:00Z,56,9,152297,enfield collision
+2022-01-09T01:00Z,55,7,306551,newham collision
+2022-01-10T01:00Z,54,9,414794,enfield collision
+2022-01-11T01:00Z,56,8,620041,lewisham collision
+2022-01-12T01:00Z,67,12,253072,ealing collision
+2022-01-13T01:00Z,80,16,719829,ealing collision
+2022-01-14T01:00Z,107,13,1355369,barnet collision
+2022-01-15T01:00Z,58,6,387164,hounslow collision
+2022-01-16T01:00Z,46,7,172288,camden collision
+2022-01-17T01:00Z,73,13,1368242,waltham forest collision
+2022-01-18T01:00Z,73,10,237404,waltham forest collision
+2022-01-19T01:00Z,51,8,252418,barking and dagenham collision
+2022-01-20T01:00Z,69,15,364879,ealing collision
+2022-01-21T01:00Z,73,7,962612,tower hamlets collision
+2022-01-22T01:00Z,58,16,387597,barking and dagenham collision
+2022-01-23T01:00Z,56,4,1058476,enfield collision
+2022-01-24T01:00Z,68,16,452822,southwark collision
+2022-01-25T01:00Z,50,11,28789,waltham forest collision
+2022-01-26T01:00Z,49,12,106090,newham collision
+2022-01-27T01:00Z,90,8,720061,enfield collision
+2022-01-28T01:00Z,83,8,246078,croydon collision
+2022-01-29T01:00Z,88,7,399094,havering collision
+2022-01-30T01:00Z,64,5,196710,havering collision
+2022-01-31T01:00Z,59,15,220637,brent collision
+2022-02-01T01:00Z,73,3,239155,barnet collision
+2022-02-02T01:00Z,56,10,38280,camden collision
+2022-02-03T01:00Z,52,8,184149,enfield collision
+2022-02-04T01:00Z,61,11,77063,hillingdon collision
+2022-02-05T01:00Z,54,16,104034,lewisham collision
+2022-02-06T01:00Z,55,13,292521,lambeth collision
+2022-02-07T01:00Z,69,12,76725,southwark collision
+2022-02-08T01:00Z,44,9,294835,enfield collision
+2022-02-09T01:00Z,60,5,885381,ealing collision
+2022-02-10T01:00Z,65,11,347575,southwark collision
+2022-02-11T01:00Z,71,21,122862,barnet collision
+2022-02-12T01:00Z,62,6,1329145,enfield collision
+2022-02-13T01:00Z,56,5,60146,redbridge collision
+2022-02-14T01:00Z,64,6,919812,brent collision
+2022-02-15T01:00Z,56,5,52538,ealing collision
+2022-02-16T01:00Z,60,3,91671,hackney collision
+2022-02-17T01:00Z,73,6,132639,redbridge collision
+2022-02-18T01:00Z,34,4,102594,lewisham collision
+2022-02-19T01:00Z,66,6,194820,haringey collision
+2022-02-20T01:00Z,43,5,71478,lambeth collision
+2022-02-21T01:00Z,47,6,99925,tower hamlets collision
+2022-02-22T01:00Z,42,7,98408,haringey collision
+2022-02-23T01:00Z,53,8,42395,haringey collision
+2022-02-24T01:00Z,65,9,91199,hillingdon collision
+2022-02-25T01:00Z,69,16,321842,havering collision
+2022-02-26T01:00Z,88,11,103628,lambeth collision
+2022-02-27T01:00Z,48,6,485721,brent collision
+2022-02-28T01:00Z,65,9,283779,islington collision
+2022-03-01T01:00Z,84,12,174110,tower hamlets collision
+2022-03-02T01:00Z,68,9,35829,enfield collision
+2022-03-03T01:00Z,82,15,467626,ealing collision
+2022-03-04T01:00Z,78,9,330954,wandsworth collision
+2022-03-05T01:00Z,58,12,558303,greenwich collision
+2022-03-06T01:00Z,57,7,26294,tower hamlets collision
+2022-03-07T01:00Z,64,11,72383,ealing collision
+2022-03-08T01:00Z,67,6,4324,wandsworth collision
+2022-03-09T01:00Z,56,8,13945,haringey collision
+2022-03-10T01:00Z,55,14,962759,redbridge collision
+2022-03-11T01:00Z,66,13,74623,brent collision
+2022-03-12T01:00Z,70,15,234798,southwark collision
+2022-03-13T01:00Z,45,13,119791,hillingdon collision
+2022-03-14T01:00Z,45,12,269390,brent collision
+2022-03-15T01:00Z,45,14,257647,wandsworth collision
+2022-03-16T01:00Z,80,11,156886,brent collision
+2022-03-17T01:00Z,74,11,193328,barnet collision
+2022-03-18T01:00Z,85,8,96508,southwark collision
+2022-03-19T01:00Z,65,9,235997,haringey collision
+2022-03-20T01:00Z,54,7,183789,greenwich collision
+2022-03-21T01:00Z,58,13,22671,lewisham collision
+2022-03-22T01:00Z,62,13,70366,hillingdon collision
+2022-03-23T01:00Z,59,10,148540,brent collision
+2022-03-24T01:00Z,61,15,136310,wandsworth collision
+2022-03-25T01:00Z,76,18,377004,hounslow collision
+2022-03-26T01:00Z,82,15,373597,enfield collision
+2022-03-27T01:00Z,43,9,204257,southwark collision
+2022-03-28T01:00Z,47,8,374242,barnet collision
+2022-03-29T01:00Z,70,16,312658,tower hamlets collision
+2022-03-30T01:00Z,61,13,326987,bromley collision
+2022-03-31T01:00Z,61,10,72616,havering collision
+2022-04-01T01:00Z,65,13,696381,croydon collision
+2022-04-02T01:00Z,55,10,150569,lambeth collision
+2022-04-03T01:00Z,49,4,375671,ealing collision
+2022-04-04T01:00Z,50,7,492802,sutton collision
+2022-04-05T01:00Z,55,10,359764,lambeth collision
+2022-04-06T01:00Z,69,8,220652,croydon collision
+2022-04-07T01:00Z,59,8,728127,barnet collision
+2022-04-08T01:00Z,47,14,150249,southwark collision
+2022-04-09T01:00Z,63,9,672645,southwark collision
+2022-04-10T01:00Z,52,4,291995,barnet collision
+2022-04-11T01:00Z,45,10,218207,camden collision
+2022-04-12T01:00Z,56,7,517246,havering collision
+2022-04-13T01:00Z,47,7,379063,barnet collision
+2022-04-14T01:00Z,72,16,272916,croydon collision
+2022-04-15T01:00Z,54,6,288781,richmond upon thames collision
+2022-04-16T01:00Z,81,8,320551,tower hamlets collision
+2022-04-17T01:00Z,36,9,715298,waltham forest collision
+2022-04-18T01:00Z,61,10,124165,croydon collision
+2022-04-19T01:00Z,62,8,481356,barnet collision
+2022-04-20T01:00Z,77,8,136078,lambeth collision
+2022-04-21T01:00Z,60,20,314184,lewisham collision
+2022-04-22T01:00Z,57,12,255638,lambeth collision
+2022-04-23T01:00Z,63,6,311207,hackney collision
+2022-04-24T01:00Z,63,16,330980,wandsworth collision
+2022-04-25T01:00Z,58,8,311010,ealing collision
+2022-04-26T01:00Z,66,11,177224,haringey collision
+2022-04-27T01:00Z,48,9,516007,enfield collision
+2022-04-28T01:00Z,60,14,227489,tower hamlets collision
+2022-04-29T01:00Z,57,14,246996,haringey collision
+2022-04-30T01:00Z,84,16,185015,ealing collision
+2022-05-01T01:00Z,65,17,247908,haringey collision
+2022-05-02T01:00Z,57,7,382684,redbridge collision
+2022-05-03T01:00Z,56,8,215328,southwark collision
+2022-05-04T01:00Z,79,8,627320,tower hamlets collision
+2022-05-05T01:00Z,77,15,522375,kingston upon thames collision
+2022-05-06T01:00Z,87,14,334668,harrow collision
+2022-05-07T01:00Z,54,7,761522,ealing collision
+2022-05-08T01:00Z,73,16,281282,newham collision
+2022-05-09T01:00Z,60,12,222639,southwark collision
+2022-05-10T01:00Z,63,11,179491,croydon collision
+2022-05-11T01:00Z,85,10,457591,newham collision
+2022-05-12T01:00Z,71,18,134922,newham collision
+2022-05-13T01:00Z,80,14,209724,newham collision
+2022-05-14T01:00Z,82,14,273737,tower hamlets collision
+2022-05-15T01:00Z,42,9,251739,lambeth collision
+2022-05-16T01:00Z,59,5,157575,camden collision
+2022-05-17T01:00Z,82,15,296771,barnet collision
+2022-05-18T01:00Z,93,17,274795,havering collision
+2022-05-19T01:00Z,58,13,207348,camden collision
+2022-05-20T01:00Z,96,11,560947,ealing collision
+2022-05-21T01:00Z,56,9,407308,haringey collision
+2022-05-22T01:00Z,56,12,137500,croydon collision
+2022-05-23T01:00Z,63,8,85618,ealing collision
+2022-05-24T01:00Z,77,12,234416,ealing collision
+2022-05-25T01:00Z,58,8,387647,wandsworth collision
+2022-05-26T01:00Z,66,14,155942,enfield collision
+2022-05-27T01:00Z,88,10,164500,barking and dagenham collision
+2022-05-28T01:00Z,76,16,141312,hillingdon collision
+2022-05-29T01:00Z,58,8,668462,croydon collision
+2022-05-30T01:00Z,54,15,140972,brent collision
+2022-05-31T01:00Z,71,10,106943,redbridge collision
+2022-06-01T01:00Z,60,14,79396,enfield collision
+2022-06-02T01:00Z,52,9,353997,croydon collision
+2022-06-03T01:00Z,58,9,116799,hackney collision
+2022-06-04T01:00Z,68,12,328643,lambeth collision
+2022-06-05T01:00Z,46,3,46268,barnet collision
+2022-06-06T01:00Z,73,7,236656,hillingdon collision
+2022-06-07T01:00Z,84,13,251723,wandsworth collision
+2022-06-08T01:00Z,78,5,148568,southwark collision
+2022-06-09T01:00Z,85,15,318963,enfield collision
+2022-06-10T01:00Z,89,17,322135,hounslow collision
+2022-06-11T01:00Z,74,12,215665,bromley collision
+2022-06-12T01:00Z,45,9,130818,camden collision
+2022-06-13T01:00Z,78,7,44163,lambeth collision
+2022-06-14T01:00Z,80,12,209806,barnet collision
+2022-06-15T01:00Z,76,11,199945,hounslow collision
+2022-06-16T01:00Z,83,12,45983,haringey collision
+2022-06-17T01:00Z,116,20,110536,hounslow collision
+2022-06-18T01:00Z,50,13,455947,bromley collision
+2022-06-19T01:00Z,46,15,56641,tower hamlets collision
+2022-06-20T01:00Z,80,8,451363,enfield collision
+2022-06-21T01:00Z,114,21,109600,wandsworth collision
+2022-06-22T01:00Z,93,18,668497,lambeth collision
+2022-06-23T01:00Z,79,13,107350,lambeth collision
+2022-06-24T01:00Z,89,11,291068,lewisham collision
+2022-06-25T01:00Z,73,16,106260,lambeth collision
+2022-06-26T01:00Z,70,9,281280,hillingdon collision
+2022-06-27T01:00Z,73,4,178256,hackney collision
+2022-06-28T01:00Z,69,10,305709,enfield collision
+2022-06-29T01:00Z,51,9,314847,barnet collision
+2022-06-30T01:00Z,70,9,365498,newham collision
+2022-07-01T01:00Z,75,9,75483,waltham forest collision
+2022-07-02T01:00Z,71,13,204727,brent collision
+2022-07-03T01:00Z,47,6,164547,croydon collision
+2022-07-04T01:00Z,60,9,358491,hillingdon collision
+2022-07-05T01:00Z,80,15,76806,hackney collision
+2022-07-06T01:00Z,59,13,119145,lambeth collision
+2022-07-07T01:00Z,78,13,662552,hillingdon collision
+2022-07-08T01:00Z,88,11,1038206,brent collision
+2022-07-09T01:00Z,76,14,102592,redbridge collision
+2022-07-10T01:00Z,63,11,146868,harrow collision
+2022-07-11T01:00Z,99,14,59928,hounslow collision
+2022-07-12T01:00Z,62,14,50435,brent collision
+2022-07-13T01:00Z,71,15,248459,tower hamlets collision
+2022-07-14T01:00Z,83,11,62704,lambeth collision
+2022-07-15T01:00Z,97,16,218641,lambeth collision
+2022-07-16T01:00Z,77,18,457238,waltham forest collision
+2022-07-17T01:00Z,66,15,149353,brent collision
+2022-07-18T01:00Z,70,10,84921,wandsworth collision
+2022-07-19T01:00Z,54,9,481548,croydon collision
+2022-07-20T01:00Z,56,8,643693,croydon collision
+2022-07-21T01:00Z,63,10,186697,camden collision
+2022-07-22T01:00Z,52,11,659707,lambeth collision
+2022-07-23T01:00Z,70,10,321210,ealing collision
+2022-07-24T01:00Z,61,11,194252,enfield collision
+2022-07-25T01:00Z,60,9,278266,lambeth collision
+2022-07-26T01:00Z,54,10,174138,newham collision
+2022-07-27T01:00Z,59,13,205276,camden collision
+2022-07-28T01:00Z,42,10,94543,islington collision
+2022-07-29T01:00Z,91,10,134416,enfield collision
+2022-07-30T01:00Z,57,9,672677,tower hamlets collision
+2022-07-31T01:00Z,74,9,135640,enfield collision
+2022-08-01T01:00Z,54,11,91030,barking and dagenham collision
+2022-08-02T01:00Z,59,9,407612,croydon collision
+2022-08-03T01:00Z,60,9,188256,hammersmith and fulham collision
+2022-08-04T01:00Z,73,10,231106,harrow collision
+2022-08-05T01:00Z,77,11,128538,camden collision
+2022-08-06T01:00Z,83,16,101907,newham collision
+2022-08-07T01:00Z,42,9,201676,croydon collision
+2022-08-08T01:00Z,61,3,57125,barking and dagenham collision
+2022-08-09T01:00Z,73,15,331739,islington collision
+2022-08-10T01:00Z,99,8,264393,hounslow collision
+2022-08-11T01:00Z,70,16,212913,ealing collision
+2022-08-12T01:00Z,71,8,941069,bexley collision
+2022-08-13T01:00Z,68,13,513827,brent collision
+2022-08-14T01:00Z,51,8,537909,tower hamlets collision
+2022-08-15T01:00Z,60,8,365603,hammersmith and fulham collision
+2022-08-16T01:00Z,52,9,135291,newham collision
+2022-08-17T01:00Z,57,8,525706,lewisham collision
+2022-08-18T01:00Z,74,12,202197,lambeth collision
+2022-08-19T01:00Z,85,16,403978,camden collision
+2022-08-20T01:00Z,66,10,479227,wandsworth collision
+2022-08-21T01:00Z,62,11,98598,enfield collision
+2022-08-22T01:00Z,45,9,39092,ealing collision
+2022-08-23T01:00Z,49,11,348438,lambeth collision
+2022-08-24T01:00Z,57,4,50685,lambeth collision
+2022-08-25T01:00Z,60,8,181127,newham collision
+2022-08-26T01:00Z,75,17,64411,tower hamlets collision
+2022-08-27T01:00Z,69,13,366836,barnet collision
+2022-08-28T01:00Z,59,11,108187,tower hamlets collision
+2022-08-29T01:00Z,44,9,195553,bromley collision
+2022-08-30T01:00Z,57,12,325050,hillingdon collision
+2022-08-31T01:00Z,71,17,270694,enfield collision
+2022-09-01T01:00Z,60,13,132331,lambeth collision
+2022-09-02T01:00Z,65,10,295984,enfield collision
+2022-09-03T01:00Z,57,9,60330,barnet collision
+2022-09-04T01:00Z,40,13,434369,newham collision
+2022-09-05T01:00Z,61,13,620068,bromley collision
+2022-09-06T01:00Z,53,7,220900,wandsworth collision
+2022-09-07T01:00Z,62,15,609050,haringey collision
+2022-09-08T01:00Z,68,8,1377433,croydon collision
+2022-09-09T01:00Z,59,17,172350,hillingdon collision
+2022-09-10T01:00Z,73,15,92718,newham collision
+2022-09-11T01:00Z,52,8,43447,lewisham collision
+2022-09-12T01:00Z,54,9,102417,hillingdon collision
+2022-09-13T01:00Z,56,10,95790,lambeth collision
+2022-09-14T01:00Z,56,7,62623,tower hamlets collision
+2022-09-15T01:00Z,75,9,240710,lewisham collision
+2022-09-16T01:00Z,80,16,98113,ealing collision
+2022-09-17T01:00Z,69,8,274495,ealing collision
+2022-09-18T01:00Z,48,7,96865,lambeth collision
+2022-09-19T01:00Z,31,5,235872,brent collision
+2022-09-20T01:00Z,79,9,86647,ealing collision
+2022-09-21T01:00Z,64,13,64821,brent collision
+2022-09-22T01:00Z,78,12,258682,hammersmith and fulham collision
+2022-09-23T01:00Z,69,11,90809,bexley collision
+2022-09-24T01:00Z,55,10,159429,lambeth collision
+2022-09-25T01:00Z,61,24,150984,hounslow collision
+2022-09-26T01:00Z,59,7,526648,southwark collision
+2022-09-27T01:00Z,59,10,186907,camden collision
+2022-09-28T01:00Z,50,14,28071,enfield collision
+2022-09-29T01:00Z,64,15,7754,enfield collision
+2022-09-30T01:00Z,68,10,24900,wandsworth collision
+2022-10-01T01:00Z,73,15,16140,lambeth collision
+2022-10-02T01:00Z,52,8,138833,camden collision
+2022-10-03T01:00Z,52,7,81854,hounslow collision
+2022-10-04T01:00Z,69,10,146543,newham collision
+2022-10-05T01:00Z,61,14,41482,newham collision
+2022-10-06T01:00Z,76,21,217636,enfield collision
+2022-10-07T01:00Z,73,13,50372,redbridge collision
+2022-10-08T01:00Z,77,15,99980,hounslow collision
+2022-10-09T01:00Z,40,5,105936,camden collision
+2022-10-10T01:00Z,72,15,72180,hounslow collision
+2022-10-11T01:00Z,62,10,1119,bromley collision
+2022-10-12T01:00Z,51,7,64467,hackney collision
+2022-10-13T01:00Z,78,9,43242,southwark collision
+2022-10-14T01:00Z,66,8,67546,enfield collision
+2022-10-15T01:00Z,76,10,84858,haringey collision
+2022-10-16T01:00Z,51,10,186891,southwark collision
+2022-10-17T01:00Z,52,8,288591,greenwich collision
+2022-10-18T01:00Z,76,10,3586,barnet collision
+2022-10-19T01:00Z,62,10,6976,lambeth collision
+2022-10-20T01:00Z,62,8,32033,merton collision
+2022-10-21T01:00Z,85,14,48251,tower hamlets collision
+2022-10-22T01:00Z,67,13,200839,hackney collision
+2022-10-23T01:00Z,58,10,43978,redbridge collision
+2022-10-24T01:00Z,61,10,24134,newham collision
+2022-10-25T01:00Z,55,14,176722,tower hamlets collision
+2022-10-26T01:00Z,72,7,32150,brent collision
+2022-10-27T01:00Z,57,8,215551,islington collision
+2022-10-28T01:00Z,69,14,100125,brent collision
+2022-10-29T01:00Z,58,13,58049,brent collision
+2022-10-30T01:00Z,60,9,52334,brent collision
+2022-10-31T01:00Z,66,13,228550,croydon collision
+2022-11-01T01:00Z,57,12,196523,newham collision
+2022-11-02T01:00Z,58,7,450784,bromley collision
+2022-11-03T01:00Z,73,11,148222,southwark collision
+2022-11-04T01:00Z,110,17,285547,ealing collision
+2022-11-05T01:00Z,48,13,1052247,sutton collision
+2022-11-06T01:00Z,51,4,141911,barnet collision
+2022-11-07T01:00Z,78,10,28058,tower hamlets collision
+2022-11-08T01:00Z,65,16,337907,havering collision
+2022-11-09T01:00Z,90,19,423714,barnet collision
+2022-11-10T01:00Z,76,15,542714,haringey collision
+2022-11-11T01:00Z,68,10,617462,croydon collision
+2022-11-12T01:00Z,62,17,65448,ealing collision
+2022-11-13T01:00Z,51,12,91723,camden collision
+2022-11-14T01:00Z,65,9,465878,greenwich collision
+2022-11-15T01:00Z,70,16,3522,lambeth collision
+2022-11-16T01:00Z,98,16,85031,enfield collision
+2022-11-17T01:00Z,82,4,43685,bexley collision
+2022-11-18T01:00Z,79,18,149700,southwark collision
+2022-11-19T01:00Z,57,7,24036,waltham forest collision
+2022-11-20T01:00Z,48,3,129084,croydon collision
+2022-11-21T01:00Z,57,15,57592,barking and dagenham collision
+2022-11-22T01:00Z,64,13,102746,hillingdon collision
+2022-11-23T01:00Z,65,11,213568,wandsworth collision
+2022-11-24T01:00Z,71,11,351931,ealing collision
+2022-11-25T01:00Z,79,15,33297,redbridge collision
+2022-11-26T01:00Z,57,8,290887,southwark collision
+2022-11-27T01:00Z,53,6,289934,tower hamlets collision
+2022-11-28T01:00Z,92,12,40097,barnet collision
+2022-11-29T01:00Z,60,12,203836,barnet collision
+2022-11-30T01:00Z,64,8,112561,southwark collision
+2022-12-01T01:00Z,55,16,108408,lewisham collision
+2022-12-02T01:00Z,58,9,329258,barnet collision
+2022-12-03T01:00Z,58,8,436870,brent collision
+2022-12-04T01:00Z,31,7,291758,lambeth collision
+2022-12-05T01:00Z,66,9,57424,newham collision
+2022-12-06T01:00Z,71,16,69637,enfield collision
+2022-12-07T01:00Z,59,8,402731,lambeth collision
+2022-12-08T01:00Z,87,12,93316,barking and dagenham collision
+2022-12-09T01:00Z,69,8,4808,ealing collision
+2022-12-10T01:00Z,58,13,34202,tower hamlets collision
+2022-12-11T01:00Z,54,11,140109,haringey collision
+2022-12-12T01:00Z,28,4,35096,brent collision
+2022-12-13T01:00Z,41,9,3809,bromley collision
+2022-12-14T01:00Z,51,8,146637,barnet collision
+2022-12-15T01:00Z,66,11,5964,ealing collision
+2022-12-16T01:00Z,54,5,11595,croydon collision
+2022-12-17T01:00Z,35,6,747372,camden collision
+2022-12-18T01:00Z,50,9,64496,havering collision
+2022-12-19T01:00Z,46,5,157058,bexley collision
+2022-12-20T01:00Z,62,13,192148,brent collision
+2022-12-21T01:00Z,63,8,34516,barnet collision
+2022-12-22T01:00Z,48,9,108683,newham collision
+2022-12-23T01:00Z,59,7,93497,hillingdon collision
+2022-12-24T01:00Z,40,8,25550,brent collision
+2022-12-25T01:00Z,27,9,10714,newham collision
+2022-12-26T01:00Z,37,4,29956,southwark collision
+2022-12-27T01:00Z,48,5,11407,enfield collision
+2022-12-28T01:00Z,43,3,148860,redbridge collision
+2022-12-29T01:00Z,41,2,61635,croydon collision
+2022-12-30T01:00Z,55,10,25602,barnet collision
+2022-12-31T01:00Z,32,11,618205,hounslow collision
